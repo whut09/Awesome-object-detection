@@ -1,26 +1,15 @@
 # Awesome Object Detection
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Update](https://img.shields.io/github/last-commit/wzhforgithub/Awesome-object-detection)
-![Papers](https://img.shields.io/badge/curated_papers-29-blue)
+![Update](https://img.shields.io/github/last-commit/whut09/Awesome-object-detection)
 
-A curated and machine-readable collection of object-detection papers from the
-five completed publication years **2021-2025**, plus rolling 2026 discovery
-(last checked **July 17, 2026**).
-The table style follows
-[`njulj/Awesome-Agent-Based-Low-Level-Vision`](https://github.com/njulj/Awesome-Agent-Based-Low-Level-Vision),
-and structured records plug into
-[`whut09/YOLO-Agent`](https://github.com/whut09/YOLO-Agent).
-
-> A manually reviewed list cannot guarantee every paper. This first version is a
-> high-signal seed catalog plus an arXiv discovery pipeline, so coverage can grow
-> without feeding unverified metadata directly into the training harness.
+A curated list of object detection papers from 2021 to 2026, including
+real-time detection, end-to-end detection, open-vocabulary detection, oriented
+detection, small-object detection, and domain-robust detection.
 
 ## Table of Contents
 
 - [Paper List](#paper-list)
-- [YOLO-Agent Integration](#yolo-agent-integration)
-- [Catalog Maintenance](#catalog-maintenance)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -49,6 +38,12 @@ and structured records plug into
 ### Open-Vocabulary and Grounded Detection
 | Year | Pub | Title | Links | Main Institution |
 |:---:|:---:|:---|:---:|:---:|
+| 2026 | arXiv | **DeCo-DETR: Decoupled Cognition DETR for Efficient Open-Vocabulary Object Detection** | [[paper](https://arxiv.org/abs/2604.02753)] | University of Science and Technology of China |
+| 2026 | arXiv | **FlowOVD: Learning Generative Latent Flows for Zero-shot Open-vocabulary Detection** | [[paper](https://arxiv.org/abs/2606.00782)] | University of California, Merced |
+| 2026 | arXiv | **OV-DEIM: Real-time DETR-Style Open-Vocabulary Object Detection with GridSynthetic Augmentation** | [[paper](https://arxiv.org/abs/2603.07022)] [[code](https://github.com/wleilei/OV-DEIM)] | University of Electronic Science and Technology of China |
+| 2026 | arXiv | **ProCal: Inference-Time Proposal Calibration for Open-Vocabulary Object Detection** | [[paper](https://arxiv.org/abs/2607.01759)] | University of Maryland |
+| 2026 | arXiv | **VL-DINO: Leveraging CLIP Vision-Language Knowledge for Open-Vocabulary Object Detection** | [[paper](https://arxiv.org/abs/2606.11546)] | University of Science and Technology of China |
+| 2026 | arXiv | **VocaDet: Sample-Driven Open-Vocabulary Object Detection and Segmentation via Visual Tokenization and Vector Database Retrieval** | [[paper](https://arxiv.org/abs/2607.08541)] | University of Technology Sydney |
 | 2025 | CVPR | **YOLOE: Real-Time Seeing Anything** | [[paper](https://arxiv.org/abs/2503.07465)] [[code](https://github.com/THU-MIG/yoloe)] | Tsinghua University |
 | 2024 | CVPR | **YOLO-World: Real-Time Open-Vocabulary Object Detection** | [[paper](https://arxiv.org/abs/2401.17270)] [[code](https://github.com/AILab-CVC/YOLO-World)] | Tencent AI Lab / SCUT |
 | 2023 | arXiv | **Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection** | [[paper](https://arxiv.org/abs/2303.05499)] [[code](https://github.com/IDEA-Research/GroundingDINO)] | IDEA Research |
@@ -56,15 +51,25 @@ and structured records plug into
 | 2022 | CVPR | **Grounded Language-Image Pre-training** | [[paper](https://arxiv.org/abs/2112.03857)] [[code](https://github.com/microsoft/GLIP)] | Microsoft |
 | 2022 | ECCV | **Simple Open-Vocabulary Object Detection with Vision Transformers** | [[paper](https://arxiv.org/abs/2205.06230)] [[code](https://github.com/google-research/scenic/tree/main/scenic/projects/owl_vit)] | Google Research |
 
+### Open-World and Domain-Robust Detection
+| Year | Pub | Title | Links | Main Institution |
+|:---:|:---:|:---|:---:|:---:|
+| 2026 | arXiv | **Detecting Unknown Objects via Energy-based Separation for Open World Object Detection** | [[paper](https://arxiv.org/abs/2603.29954)] | Korea Advanced Institute of Science and Technology |
+| 2026 | arXiv | **Why Domain Matters: Domain-Aware Benchmarking of Underwater Object Detection and Annotation Quality** | [[paper](https://arxiv.org/abs/2607.10575)] | University of Tasmania |
+
 ### Small, Aerial, and Oriented Detection
 | Year | Pub | Title | Links | Main Institution |
 |:---:|:---:|:---|:---:|:---:|
+| 2026 | arXiv | **LOGOS: Language-guided Oriented Object Detection in Aerial Scenes** | [[paper](https://arxiv.org/abs/2607.08004)] | University of California, Santa Cruz |
+| 2026 | arXiv | **RiO-DETR: DETR for Real-time Oriented Object Detection** | [[paper](https://arxiv.org/abs/2603.09411)] | Nanjing University of Science and Technology |
 | 2022 | ICIP | **Slicing Aided Hyper Inference and Fine-Tuning for Small Object Detection** | [[paper](https://arxiv.org/abs/2202.06934)] [[code](https://github.com/obss/sahi)] | OBSS |
 | 2021 | CVPR | **ReDet: A Rotation-equivariant Detector for Aerial Object Detection** | [[paper](https://arxiv.org/abs/2103.07733)] [[code](https://github.com/csuhan/ReDet)] | Wuhan University |
 
 ### YOLO and Real-Time Detection
 | Year | Pub | Title | Links | Main Institution |
 |:---:|:---:|:---|:---:|:---:|
+| 2026 | arXiv | **MambaPSA: A Mamba-based Replacement for C2PSA in YOLO26** | [[paper](https://arxiv.org/abs/2607.12681)] | National Taiwan University of Science and Technology |
+| 2026 | arXiv | **No Attention, No Problem: DPU-Aware Attention Approximation in Modern YOLO on FPGA** | [[paper](https://arxiv.org/abs/2607.13106)] | Bremen University of Applied Sciences |
 | 2025 | arXiv | **YOLOv12: Attention-Centric Real-Time Object Detectors** | [[paper](https://arxiv.org/abs/2502.12524)] [[code](https://github.com/sunsmarterjie/yolov12)] | University at Buffalo / UCAS |
 | 2024 | CVPR | **DETRs Beat YOLOs on Real-Time Object Detection** | [[paper](https://arxiv.org/abs/2304.08069)] [[code](https://github.com/lyuwenyu/RT-DETR)] | Baidu |
 | 2024 | arXiv | **LW-DETR: A Transformer Replacement to YOLO for Real-Time Detection** | [[paper](https://arxiv.org/abs/2406.03459)] [[code](https://github.com/Atten4Vis/LW-DETR)] | Microsoft Research Asia |
@@ -77,35 +82,22 @@ and structured records plug into
 | 2021 | arXiv | **YOLOX: Exceeding YOLO Series in 2021** | [[paper](https://arxiv.org/abs/2107.08430)] [[code](https://github.com/Megvii-BaseDetection/YOLOX)] | Megvii |
 <!-- PAPER_TABLES:END -->
 
-## YOLO-Agent Integration
-
-The catalog exports YOLO-Agent `PaperRecord` JSONL and a separate harness-hint
-stream. Paper claims remain `paper_prior` until local protocol-matched reproduction.
-
-```bash
-python scripts/catalog.py validate
-python scripts/catalog.py export-yolo
-python scripts/catalog.py export-hints
-python scripts/catalog.py sync-yolo --yolo-root ../YOLO-Agent
-```
-
-See [`docs/YOLO_AGENT_INTEGRATION.md`](docs/YOLO_AGENT_INTEGRATION.md).
-
-## Catalog Maintenance
-
-`data/papers.json` is the reviewed source of truth.
-
-```bash
-python scripts/discover_arxiv.py --start-year 2021 --max-results 100
-python scripts/catalog.py validate
-python scripts/catalog.py render
-python scripts/catalog.py stats
-```
-
 ## Contributing
 
-Add a stable paper identifier, official links, YOLO-Agent component tags,
-applicability, and testable harness hints. Run validation and tests before a PR.
+Contributions are welcome. Please add papers that are relevant to object
+detection and follow these guidelines:
+
+- Use a stable paper identifier, preferably an arXiv ID or DOI.
+- Include the title, publication year, venue, paper link, and main institution.
+- Add the official code or project link when one is available.
+- Place the paper in the most specific existing category; add a category only when necessary.
+- Keep titles and links accurate, and do not add duplicate papers or duplicate versions.
+- For recent arXiv papers, use the arXiv publication year and arXiv as the venue.
+- Add the entry to data/papers.json, run python scripts/catalog.py validate, and regenerate the README with python scripts/catalog.py render.
+- Keep paper-reported results separate from independently reproduced results.
+
+Please open a pull request with a short explanation of why the paper belongs in
+the list. Corrections to titles, venues, links, and categories are also welcome.
 
 ## License
 

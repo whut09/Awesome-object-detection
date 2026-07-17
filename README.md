@@ -19,7 +19,14 @@ detection, small-object detection, and domain-robust detection.
 ### Assignment, Loss, and Training
 | Year | Pub | Title | Links | Main Institution |
 |:---:|:---:|:---|:---:|:---:|
+| 2023 | CVPR | **Bridging Precision and Confidence: A Train-Time Loss for Calibrating Object Detection** | [[paper](https://arxiv.org/abs/2303.14404)] [[code](https://github.com/akhtarvision/bpc_calibration)] | Mohamed bin Zayed University of Artificial Intelligence |
+| 2023 | ICCV | **Bridging the Gap between Classification and Localization for Better Feature Alignment** | [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Yang_Bridging_the_Gap_between_Classification_and_Localization_for_Better_Feature_Alignment_ICCV_2023_paper.html)] [[code](https://github.com/TinyTigerPan/BCKD)] | See paper |
+| 2023 | AAAI | **Correlation Loss: Enforcing Correlation between Classification and Localization** | [[paper](https://arxiv.org/abs/2301.01019)] | Middle East Technical University |
+| 2022 | CVPR | **A Dual Weighting Label Assignment Scheme for Object Detection** | [[paper](https://arxiv.org/abs/2203.09730)] | See paper |
+| 2022 | arXiv | **DSLA: Dynamic Smooth Label Assignment for Efficient Anchor-Free Object Detection** | [[paper](https://arxiv.org/abs/2208.00817)] [[code](https://github.com/MingboHong/DSLA)] | See paper |
+| 2021 | arXiv | **Mutual Supervision for Dense Object Detection** | [[paper](https://arxiv.org/abs/2109.05986)] | See paper |
 | 2021 | CVPR | **OTA: Optimal Transport Assignment for Object Detection** | [[paper](https://arxiv.org/abs/2103.14259)] [[code](https://github.com/Megvii-BaseDetection/OTA)] | Megvii |
+| 2021 | CVPRW | **Pseudo-IoU: Improving Label Assignment in Anchor-Free Object Detection** | [[paper](https://arxiv.org/abs/2104.14082)] [[code](https://github.com/Barrett-python/Pseudo-IoU)] | See paper |
 | 2021 | ICCV | **TOOD: Task-aligned One-stage Object Detection** | [[paper](https://arxiv.org/abs/2108.07755)] [[code](https://github.com/fcjian/TOOD)] | SenseTime / SCUT |
 
 ### DETR and End-to-End Detection
@@ -33,8 +40,11 @@ detection, small-object detection, and domain-robust detection.
 | 2025 | CVPR | **MI-DETR: An Object Detection Model with Multi-time Inquiries Mechanism** | [[paper](https://arxiv.org/abs/2503.01463)] | See paper |
 | 2025 | CVPR | **Mr. DETR++: Instructive Multi-Route Training for Detection Transformers with MoE** | [[paper](https://arxiv.org/abs/2412.10028)] | See paper |
 | 2025 | ICCV | **Sim-DETR: Unlock DETR for Temporal Sentence Grounding** | [[paper](https://arxiv.org/abs/2509.23867)] [[code](https://github.com/SooLab/Sim-DETR)] | See paper |
+| 2023 | CVPR | **Dense Distinct Query for End-to-End Object Detection** | [[paper](https://arxiv.org/abs/2303.12776)] [[code](https://github.com/jshilong/DDQ)] | Shanghai AI Laboratory |
 | 2023 | ICCV | **DETRs with Collaborative Hybrid Assignments Training** | [[paper](https://arxiv.org/abs/2211.12860)] [[code](https://github.com/Sense-X/Co-DETR)] | SenseTime |
 | 2023 | ICLR | **DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection** | [[paper](https://arxiv.org/abs/2203.03605)] [[code](https://github.com/IDEA-Research/DINO)] | IDEA Research |
+| 2023 | arXiv | **Focal-Stable-DINO: A Strong and Reproducible Object Detector with Public Resources** | [[paper](https://arxiv.org/abs/2304.13027)] | IDEA Research |
+| 2023 | CVPR | **One-to-Few Label Assignment for End-to-End Dense Detection** | [[paper](https://arxiv.org/abs/2303.11567)] [[code](https://github.com/strongwolf/o2f)] | See paper |
 | 2022 | ICLR | **DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR** | [[paper](https://arxiv.org/abs/2201.12329)] [[code](https://github.com/IDEA-Research/DAB-DETR)] | IDEA Research |
 | 2022 | CVPR | **DN-DETR: Accelerate DETR Training by Introducing Query DeNoising** | [[paper](https://arxiv.org/abs/2203.01305)] [[code](https://github.com/IDEA-Research/DN-DETR)] | IDEA Research |
 | 2021 | ICCV | **Conditional DETR for Fast Training Convergence** | [[paper](https://arxiv.org/abs/2108.06152)] [[code](https://github.com/Atten4Vis/ConditionalDETR)] | Microsoft Research Asia |
@@ -69,6 +79,16 @@ detection, small-object detection, and domain-robust detection.
 | 2025 | CVPR | **Test-Time Backdoor Detection for Object Detection Models** | [[paper](https://arxiv.org/abs/2503.15293)] | See paper |
 | 2025 | CVPR | **Towards RAW Object Detection in Diverse Conditions** | [[paper](https://arxiv.org/abs/2411.15678)] [[code](https://github.com/lzyhha/AODRaw)] | See paper |
 | 2025 | ICCV | **Visual Modality Prompt for Adapting Vision-Language Object Detectors** | [[paper](https://arxiv.org/abs/2412.00622)] [[code](https://github.com/heitorrapela/ModPrompt)] | See paper |
+| 2024 | IJCV | **A Systematic Evaluation of Uncertainty Calibration in Pre-Trained Object Detectors** | [[paper](https://doi.org/10.1007/s11263-024-02219-z)] | University of Kassel |
+| 2023 | ICCV | **AID: Pushing the Performance Boundary of Human-Aware Object Detection** | [[paper](https://arxiv.org/abs/2310.05666)] [[code](https://github.com/YilongLv/AID)] | See paper |
+| 2023 | ICCV | **AlignDet: Aligning Pre-training and Fine-tuning in Object Detection** | [[paper](https://arxiv.org/abs/2307.11077)] | See paper |
+| 2023 | ICCVW | **DatasetEquity: Are All Samples Created Equal? In The Quest For Equity Within Datasets** | [[paper](https://doi.org/10.1109/ICCVW60793.2023.00476)] | See paper |
+| 2023 | CVPR | **DynamicDet: A Unified Dynamic Architecture for Object Detection** | [[paper](https://arxiv.org/abs/2304.05552)] [[code](https://github.com/VDIGPKU/DynamicDet)] | Peking University |
+| 2023 | arXiv | **ObjectLab: Automated Diagnosis of Mislabeled Images in Object Detection Data** | [[paper](https://arxiv.org/abs/2309.00832)] | Cleanlab |
+| 2023 | CVPRW | **Training Strategies for Object Detection with Vision Transformers** | [[paper](https://arxiv.org/abs/2304.02186)] | See paper |
+| 2022 | arXiv | **BigDetection: A Large-scale Benchmark for Improved Object Detector Pre-training** | [[paper](https://arxiv.org/abs/2203.13249)] [[code](https://github.com/amazon-science/bigdetection)] | Amazon |
+| 2022 | CVPR | **Proper Reuse of Image Classification Features Improves Object Detection** | [[paper](https://arxiv.org/abs/2204.00484)] | Google Research |
+| 2021 | ACM MM | **Disentangle Your Dense Object Detector** | [[paper](https://arxiv.org/abs/2107.02963)] [[code](https://github.com/chenminghao3/DDOD)] | University of Science and Technology of China |
 
 ### Open-Vocabulary and Grounded Detection
 | Year | Pub | Title | Links | Main Institution |
@@ -114,6 +134,16 @@ detection, small-object detection, and domain-robust detection.
 | 2025 | CVPR | **Large Self-Supervised Models Bridge the Gap in Domain Adaptive Object Detection** | [[paper](https://arxiv.org/abs/2503.23220)] [[code](https://github.com/TRAILab/DINO_Teacher)] | See paper |
 | 2025 | CVPR | **SimLTD: Simple Supervised and Semi-Supervised Long-Tailed Object Detection** | [[paper](https://arxiv.org/abs/2412.20047)] | See paper |
 | 2025 | ICCV | **UPRE: Zero-Shot Domain Adaptation for Object Detection via Unified Prompt and Representation Enhancement** | [[paper](https://arxiv.org/abs/2507.00721)] [[code](https://github.com/AMAP-ML/UPRE)] | See paper |
+| 2023 | CVPR | **2PCNet: Two-Phase Consistency Training for Day-to-Night Unsupervised Domain Adaptive Object Detection** | [[paper](https://arxiv.org/abs/2303.13853)] | See paper |
+| 2023 | ICCV | **Augmented Box Replay: Overcoming Foreground Shift for Incremental Object Detection** | [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Liu_Augmented_Box_Replay_Overcoming_Foreground_Shift_for_Incremental_Object_Detection_ICCV_2023_paper.html)] | See paper |
+| 2023 | WACV | **ConfMix: Unsupervised Domain Adaptation for Object Detection via Confidence-Based Mixing** | [[paper](https://arxiv.org/abs/2210.11539)] [[code](https://github.com/giuliomattolin/ConfMix)] | University of Trento / FBK |
+| 2023 | arXiv | **DINF: Dynamic Instance Noise Filter for Occluded Pedestrian Detection** | [[paper](https://arxiv.org/abs/2301.05565)] | See paper |
+| 2023 | CVPRW | **Exploring the Role of Synthetic Data in Human Detection** | [[paper](https://arxiv.org/abs/2303.13221)] | See paper |
+| 2023 | CVPR | **Generating Features with Increased Crop-Related Diversity for Few-Shot Object Detection** | [[paper](https://arxiv.org/abs/2304.05096)] | See paper |
+| 2023 | ICCVW | **Tensor Factorization for Leveraging Cross-Modal Knowledge in Data-Constrained Object Detection** | [[paper](https://openaccess.thecvf.com/content/ICCV2023W/PAR/html/Sedunov_Tensor_Factorization_for_Leveraging_Cross-Modal_Knowledge_in_Data-Constrained_Object_Detection_ICCVW_2023_paper.html)] | Mitsubishi Electric Research Laboratories |
+| 2022 | ECCV | **Exploring Resolution and Degradation Clues as Self-Supervised Signal for Low Quality Object Detection** | [[paper](https://arxiv.org/abs/2208.03062)] [[code](https://github.com/Chokyeol/AERIS)] | See paper |
+| 2022 | arXiv | **Pedestrian Detection: Domain Generalization, CNNs, Transformers and Beyond** | [[paper](https://arxiv.org/abs/2201.03176)] [[code](https://github.com/hasanirtiza/Pedestron)] | See paper |
+| 2022 | arXiv | **The Impact of Partial Occlusion on Pedestrian Detectability** | [[paper](https://arxiv.org/abs/2205.04812)] | See paper |
 
 ### Small, Aerial, and Oriented Detection
 | Year | Pub | Title | Links | Main Institution |
@@ -153,9 +183,13 @@ detection, small-object detection, and domain-robust detection.
 | 2024 | NeurIPS | **YOLOv10: Real-Time End-to-End Object Detection** | [[paper](https://arxiv.org/abs/2405.14458)] [[code](https://github.com/THU-MIG/yolov10)] | Tsinghua University |
 | 2024 | arXiv | **YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information** | [[paper](https://arxiv.org/abs/2402.13616)] [[code](https://github.com/WongKinYiu/yolov9)] | Academia Sinica |
 | 2023 | NeurIPS | **Gold-YOLO: Efficient Object Detector via Gather-and-Distribute Mechanism** | [[paper](https://arxiv.org/abs/2309.11331)] [[code](https://github.com/huawei-noah/Efficient-Computing/tree/master/Detection/Gold-YOLO)] | Huawei Noah's Ark Lab |
+| 2023 | arXiv | **Real-Time Flying Object Detection with YOLOv8** | [[paper](https://arxiv.org/abs/2305.09972)] | See paper |
+| 2023 | AAAI | **YOLOV: Making Still Image Object Detectors Great at Video Object Detection** | [[paper](https://arxiv.org/abs/2208.09686)] [[code](https://github.com/YuHengsss/YOLOV)] | See paper |
+| 2022 | arXiv | **DAMO-YOLO: A Report on Real-Time Object Detection Design** | [[paper](https://arxiv.org/abs/2211.15444)] [[code](https://github.com/tinyvision/DAMO-YOLO)] | Alibaba Group |
 | 2022 | arXiv | **PP-YOLOE: An Evolved Version of YOLO** | [[paper](https://arxiv.org/abs/2203.16250)] [[code](https://github.com/PaddlePaddle/PaddleDetection)] | Baidu |
 | 2022 | arXiv | **RTMDet: An Empirical Study of Designing Real-Time Object Detectors** | [[paper](https://arxiv.org/abs/2212.07784)] [[code](https://github.com/open-mmlab/mmyolo)] | OpenMMLab |
 | 2022 | arXiv | **YOLOv7: Trainable Bag-of-Freebies Sets New State-of-the-Art for Real-Time Object Detectors** | [[paper](https://arxiv.org/abs/2207.02696)] [[code](https://github.com/WongKinYiu/yolov7)] | Academia Sinica |
+| 2021 | arXiv | **YOLO5Face: Why Reinventing a Face Detector** | [[paper](https://arxiv.org/abs/2105.12931)] [[code](https://github.com/deepcam-cn/yolov5-face)] | Deepcam |
 | 2021 | arXiv | **YOLOX: Exceeding YOLO Series in 2021** | [[paper](https://arxiv.org/abs/2107.08430)] [[code](https://github.com/Megvii-BaseDetection/YOLOX)] | Megvii |
 <!-- PAPER_TABLES:END -->
 

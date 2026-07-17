@@ -10,6 +10,7 @@ detection, small-object detection, and domain-robust detection.
 ## Table of Contents
 
 - [Paper List](#paper-list)
+- [Screenshot Source Entries](#screenshot-source-entries)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -81,6 +82,13 @@ detection, small-object detection, and domain-robust detection.
 | 2022 | arXiv | **YOLOv7: Trainable Bag-of-Freebies Sets New State-of-the-Art for Real-Time Object Detectors** | [[paper](https://arxiv.org/abs/2207.02696)] [[code](https://github.com/WongKinYiu/yolov7)] | Academia Sinica |
 | 2021 | arXiv | **YOLOX: Exceeding YOLO Series in 2021** | [[paper](https://arxiv.org/abs/2107.08430)] [[code](https://github.com/Megvii-BaseDetection/YOLOX)] | Megvii |
 <!-- PAPER_TABLES:END -->
+
+## Screenshot Source Entries
+
+The supplied screenshots contain a multi-label source list. All 98 visible
+entries, including entries that may belong to adjacent vision tasks, are
+preserved in [the transcription](docs/wechat-screenshot-entries.md) for later
+paper-link verification, deduplication, and task classification.
 
 ## Contributing
 

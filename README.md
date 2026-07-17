@@ -175,9 +175,11 @@ detection, small-object detection, and domain-robust detection.
 | 2026 | CVPR | **Does YOLO Really Need to See Every Training Image in Every Epoch?** | [[paper](https://arxiv.org/abs/2603.17684)] | See paper |
 | 2026 | arXiv | **MambaPSA: A Mamba-based Replacement for C2PSA in YOLO26** | [[paper](https://arxiv.org/abs/2607.12681)] | National Taiwan University of Science and Technology |
 | 2026 | arXiv | **No Attention, No Problem: DPU-Aware Attention Approximation in Modern YOLO on FPGA** | [[paper](https://arxiv.org/abs/2607.13106)] | Bremen University of Applied Sciences |
+| 2026 | arXiv | **Ultralytics YOLO26: An End-to-End Edge-Optimized Vision Model** | [[paper](https://arxiv.org/abs/2606.03748)] [[code](https://github.com/ultralytics/ultralytics)] | Ultralytics |
 | 2026 | CVPR | **YOLO-Master: MOE-Accelerated with Specialized Transformers for Enhanced Real-time Detection** | [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Lin_YOLO-Master_MOE-Accelerated_with_Specialized_Transformers_for_Enhanced_Real-time_Detection_CVPR_2026_paper.html)] | See paper |
 | 2026 | CVPR | **YOLO-ULM: Ultra-Lightweight Models for Real-Time Object Detection** | [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Han_YOLO-ULM_Ultra-Lightweight_Models_for_Real-Time_Object_Detection_CVPR_2026_paper.html)] | See paper |
 | 2025 | arXiv | **YOLOv12: Attention-Centric Real-Time Object Detectors** | [[paper](https://arxiv.org/abs/2502.12524)] [[code](https://github.com/sunsmarterjie/yolov12)] | University at Buffalo / UCAS |
+| 2025 | arXiv | **YOLOv13: Real-Time Object Detection with Hypergraph-Enhanced Adaptive Visual Perception** | [[paper](https://arxiv.org/abs/2506.17733)] [[code](https://github.com/iMoonLab/yolov13)] | See paper |
 | 2024 | CVPR | **DETRs Beat YOLOs on Real-Time Object Detection** | [[paper](https://arxiv.org/abs/2304.08069)] [[code](https://github.com/lyuwenyu/RT-DETR)] | Baidu |
 | 2024 | arXiv | **LW-DETR: A Transformer Replacement to YOLO for Real-Time Detection** | [[paper](https://arxiv.org/abs/2406.03459)] [[code](https://github.com/Atten4Vis/LW-DETR)] | Microsoft Research Asia |
 | 2024 | NeurIPS | **YOLOv10: Real-Time End-to-End Object Detection** | [[paper](https://arxiv.org/abs/2405.14458)] [[code](https://github.com/THU-MIG/yolov10)] | Tsinghua University |

@@ -7,6 +7,7 @@ from scripts.catalog import (
     DEFAULT_CATALOG,
     harness_record,
     load_catalog,
+    markdown_tables,
     sync_to_yolo_agent,
     validate_catalog,
     yolo_agent_record,
@@ -27,6 +28,12 @@ class CatalogTests(unittest.TestCase):
         self.assertEqual("research.v1", record["schema_version"])
         self.assertEqual("paper_prior", harness_record(self.papers[0])["evidence_level"])
         self.assertNotIn("harness_hints", record)
+
+    def test_completed_notes_are_linked(self) -> None:
+        rendered = markdown_tables(self.papers)
+        for paper in self.papers:
+            if paper.get("note_path"):
+                self.assertIn(f"[[note]({paper['note_path']})]", rendered)
 
     def test_sync_merges_and_preserves_existing_records(self) -> None:
         with tempfile.TemporaryDirectory() as directory:

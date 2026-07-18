@@ -62,6 +62,13 @@ def validate_catalog(papers: list[dict[str, Any]]) -> list[str]:
             value = paper.get(key)
             if value and urlparse(value).scheme not in {"http", "https"}:
                 errors.append(f"{label}: {key} must be an HTTP(S) URL")
+        note_path = paper.get("note_path")
+        if note_path:
+            note_file = ROOT / str(note_path)
+            if note_file.suffix.lower() != ".md":
+                errors.append(f"{label}: note_path must point to a Markdown file")
+            elif not note_file.is_file():
+                errors.append(f"{label}: note_path does not exist: {note_path}")
         for key in ("task_families", "component_ids", "harness_hints"):
             if not isinstance(paper.get(key), list):
                 errors.append(f"{label}: {key} must be a list")
@@ -83,6 +90,8 @@ def markdown_tables(papers: list[dict[str, Any]]) -> str:
             links = f"[[paper]({paper['paper_url']})]"
             if paper.get("official_code_url"):
                 links += f" [[code]({paper['official_code_url']})]"
+            if paper.get("note_path"):
+                links += f" [[note]({paper['note_path']})]"
             sections.append(
                 f"| {paper['year']} | {paper['publication']} | **{paper['title']}** | {links} | {paper['institution']} |"
             )

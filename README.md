@@ -85,7 +85,7 @@ detection, small-object detection, and domain-robust detection.
 | 2025 | ICCV | **Adversarial Attention Perturbations for Large Object Detection Transformers** | [[paper](https://arxiv.org/abs/2508.02987)] | See paper |
 | 2025 | NeurIPS | **CSPCL: Category Semantic Prior Contrastive Learning for Deformable DETR-Based Prohibited Item Detectors** | [[paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/cfbce54e59addd97bf555fc31be7e4ec-Abstract-Conference.html)] | See paper |
 | 2025 | ICLR | **D-FINE: Redefine Regression Task in DETRs as Fine-Grained Distribution Refinement** | [[paper](https://arxiv.org/abs/2410.13842)] [[code](https://github.com/Peterande/D-FINE)] | University of Sydney / Baidu |
-| 2025 | CVPR | **DEIM: DETR with Improved Matching for Fast Convergence** | [[paper](https://arxiv.org/abs/2412.04234)] [[code](https://github.com/ShihuaHuang95/DEIM)] | Chinese Academy of Sciences |
+| 2025 | CVPR | **DEIM: DETR with Improved Matching for Fast Convergence** | [[paper](https://arxiv.org/abs/2412.04234)] [[code](https://github.com/ShihuaHuang95/DEIM)] [[note](docs/CVPR2025/object_detection/deim_detr_with_improved_matching_for_fast_convergence.md)] | Chinese Academy of Sciences |
 | 2025 | ICCV | **EvRT-DETR: Latent Space Adaptation of Image Detectors for Event-based Vision** | [[paper](https://arxiv.org/abs/2412.02890)] [[code](https://github.com/realtime-intelligence/evrt-detr)] | See paper |
 | 2025 | CVPR | **MI-DETR: An Object Detection Model with Multi-time Inquiries Mechanism** | [[paper](https://arxiv.org/abs/2503.01463)] | See paper |
 | 2025 | CVPR | **Mr. DETR++: Instructive Multi-Route Training for Detection Transformers with MoE** | [[paper](https://arxiv.org/abs/2412.10028)] | See paper |
@@ -345,7 +345,7 @@ detection, small-object detection, and domain-robust detection.
 | 2025 | ICCV | **SFUOD: Source-Free Unknown Object Detection** | [[paper](https://arxiv.org/abs/2507.17373)] [[code](https://github.com/SFUOD)] | See paper |
 | 2025 | ICCV | **Visual Textualization for Image Prompted Object Detection** | [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Wu_Visual_Textualization_for_Image_Prompted_Object_Detection_ICCV_2025_paper.html)] | See paper |
 | 2025 | NeurIPS | **VL-SAM-V2: Open-World Object Detection with General and Specific Query Fusion** | [[paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/c3532dd633e600e9f6db57aa7ae0c858-Abstract-Conference.html)] | See paper |
-| 2025 | CVPR | **YOLOE: Real-Time Seeing Anything** | [[paper](https://arxiv.org/abs/2503.07465)] [[code](https://github.com/THU-MIG/yoloe)] | Tsinghua University |
+| 2025 | ICCV | **YOLOE: Real-Time Seeing Anything** | [[paper](https://arxiv.org/abs/2503.07465)] [[code](https://github.com/THU-MIG/yoloe)] [[note](docs/ICCV2025/object_detection/yoloe_real-time_seeing_anything.md)] | Tsinghua University |
 | 2024 | ECCV | **CLIFF: Continual Latent Diffusion for Open-Vocabulary Object Detection** | [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/7221_ECCV_2024_paper.php)] | See paper |
 | 2024 | ECCV | **Cross-Domain Few-Shot Object Detection via Enhanced Open-Set Object Detector** | [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/7562_ECCV_2024_paper.php)] | See paper |
 | 2024 | CVPR | **DetCLIPv3: Towards Versatile Generative Open-vocabulary Object Detection** | [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Yao_DetCLIPv3_Towards_Versatile_Generative_Open-vocabulary_Object_Detection_CVPR_2024_paper.html)] | See paper |
@@ -736,21 +736,21 @@ detection, small-object detection, and domain-robust detection.
 | 2026 | CVPR | **Does YOLO Really Need to See Every Training Image in Every Epoch?** | [[paper](https://arxiv.org/abs/2603.17684)] | See paper |
 | 2026 | arXiv | **MambaPSA: A Mamba-based Replacement for C2PSA in YOLO26** | [[paper](https://arxiv.org/abs/2607.12681)] | National Taiwan University of Science and Technology |
 | 2026 | arXiv | **No Attention, No Problem: DPU-Aware Attention Approximation in Modern YOLO on FPGA** | [[paper](https://arxiv.org/abs/2607.13106)] | Bremen University of Applied Sciences |
-| 2026 | arXiv | **Ultralytics YOLO26: An End-to-End Edge-Optimized Vision Model** | [[paper](https://arxiv.org/abs/2606.03748)] [[code](https://github.com/ultralytics/ultralytics)] | Ultralytics |
+| 2026 | arXiv | **Ultralytics YOLO26: An End-to-End Edge-Optimized Vision Model** | [[paper](https://arxiv.org/abs/2606.03748)] [[code](https://github.com/ultralytics/ultralytics)] [[note](docs/arXiv2026/object_detection/ultralytics_yolo26_an_end-to-end_edge-optimized_vision_model.md)] | Ultralytics |
 | 2026 | CVPR | **YOLO-Master: MOE-Accelerated with Specialized Transformers for Enhanced Real-time Detection** | [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Lin_YOLO-Master_MOE-Accelerated_with_Specialized_Transformers_for_Enhanced_Real-time_Detection_CVPR_2026_paper.html)] | See paper |
 | 2026 | CVPR | **YOLO-ULM: Ultra-Lightweight Models for Real-Time Object Detection** | [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Han_YOLO-ULM_Ultra-Lightweight_Models_for_Real-Time_Object_Detection_CVPR_2026_paper.html)] | See paper |
 | 2025 | CVPR | **Brain-Inspired Spiking Neural Networks for Energy-Efficient Object Detection** | [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Li_Brain-Inspired_Spiking_Neural_Networks_for_Energy-Efficient_Object_Detection_CVPR_2025_paper.html)] | See paper |
 | 2025 | NeurIPS | **Real-Time Scene-Adaptive Tone Mapping for High-Dynamic Range Object Detection** | [[paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/8c83381162f247df48f101b3aaa7c440-Abstract-Conference.html)] | See paper |
 | 2025 | CVPR | **ReRAW: RGB-to-RAW Image Reconstruction via Stratified Sampling for Efficient Object Detection on the Edge** | [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Berdan_ReRAW_RGB-to-RAW_Image_Reconstruction_via_Stratified_Sampling_for_Efficient_Object_CVPR_2025_paper.html)] | See paper |
-| 2025 | NeurIPS | **YOLOv12: Attention-Centric Real-Time Object Detectors** | [[paper](https://arxiv.org/abs/2502.12524)] [[code](https://github.com/sunsmarterjie/yolov12)] | University at Buffalo / UCAS |
-| 2025 | arXiv | **YOLOv13: Real-Time Object Detection with Hypergraph-Enhanced Adaptive Visual Perception** | [[paper](https://arxiv.org/abs/2506.17733)] [[code](https://github.com/iMoonLab/yolov13)] | See paper |
+| 2025 | NeurIPS | **YOLOv12: Attention-Centric Real-Time Object Detectors** | [[paper](https://arxiv.org/abs/2502.12524)] [[code](https://github.com/sunsmarterjie/yolov12)] [[note](docs/NeurIPS2025/object_detection/yolov12_attention-centric_real-time_object_detectors.md)] | University at Buffalo / UCAS |
+| 2025 | arXiv | **YOLOv13: Real-Time Object Detection with Hypergraph-Enhanced Adaptive Visual Perception** | [[paper](https://arxiv.org/abs/2506.17733)] [[code](https://github.com/iMoonLab/yolov13)] [[note](docs/arXiv2025/object_detection/yolov13_real-time_object_detection_with_hypergraph-enhanced_adaptive_visual_perception.md)] | See paper |
 | 2024 | CVPR | **DETRs Beat YOLOs on Real-Time Object Detection** | [[paper](https://arxiv.org/abs/2304.08069)] [[code](https://github.com/lyuwenyu/RT-DETR)] | Baidu |
 | 2024 | ECCV | **Integer-Valued Training and Spike-driven Inference Spiking Neural Network for High-performance and Energy-efficient Object Detection** | [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/4704_ECCV_2024_paper.php)] | See paper |
 | 2024 | CVPR | **LEOD: Label-Efficient Object Detection for Event Cameras** | [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wu_LEOD_Label-Efficient_Object_Detection_for_Event_Cameras_CVPR_2024_paper.html)] | See paper |
 | 2024 | arXiv | **LW-DETR: A Transformer Replacement to YOLO for Real-Time Detection** | [[paper](https://arxiv.org/abs/2406.03459)] [[code](https://github.com/Atten4Vis/LW-DETR)] | Microsoft Research Asia |
 | 2024 | CVPR | **SFOD: Spiking Fusion Object Detector** | [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Fan_SFOD_Spiking_Fusion_Object_Detector_CVPR_2024_paper.html)] | See paper |
-| 2024 | NeurIPS | **YOLOv10: Real-Time End-to-End Object Detection** | [[paper](https://arxiv.org/abs/2405.14458)] [[code](https://github.com/THU-MIG/yolov10)] | Tsinghua University |
-| 2024 | arXiv | **YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information** | [[paper](https://arxiv.org/abs/2402.13616)] [[code](https://github.com/WongKinYiu/yolov9)] | Academia Sinica |
+| 2024 | NeurIPS | **YOLOv10: Real-Time End-to-End Object Detection** | [[paper](https://arxiv.org/abs/2405.14458)] [[code](https://github.com/THU-MIG/yolov10)] [[note](docs/NeurIPS2024/object_detection/yolov10_real-time_end-to-end_object_detection.md)] | Tsinghua University |
+| 2024 | arXiv | **YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information** | [[paper](https://arxiv.org/abs/2402.13616)] [[code](https://github.com/WongKinYiu/yolov9)] [[note](docs/arXiv2024/object_detection/yolov9_learning_what_you_want_to_learn_using_programmable_gradient_information.md)] | Academia Sinica |
 | 2023 | ICCV | **FemtoDet: An Object Detection Baseline for Energy Versus Performance Tradeoffs** | [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Tu_FemtoDet_An_Object_Detection_Baseline_for_Energy_Versus_Performance_Tradeoffs_ICCV_2023_paper.html)] | See paper |
 | 2023 | NeurIPS | **Gold-YOLO: Efficient Object Detector via Gather-and-Distribute Mechanism** | [[paper](https://arxiv.org/abs/2309.11331)] [[code](https://github.com/huawei-noah/Efficient-Computing/tree/master/Detection/Gold-YOLO)] | Huawei Noah's Ark Lab |
 | 2023 | ICCV | **Identity-Consistent Aggregation for Video Object Detection** | [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Deng_Identity-Consistent_Aggregation_for_Video_Object_Detection_ICCV_2023_paper.html)] | See paper |
@@ -782,11 +782,14 @@ detection and follow these guidelines:
 - Use a stable paper identifier, preferably an arXiv ID or DOI.
 - Include the title, publication year, venue, paper link, and main institution.
 - Add the official code or project link when one is available.
+- Add note_path only after a paper-specific Chinese note is complete. Notes must be written from the paper itself and include motivation, method details, experiments, limitations, and actionable implications; catalog-field templates and unverified placeholders are not accepted.
+- Store each completed note under docs/<Venue><Year>/object_detection/, with one Markdown file per paper. Diagrams and formulas should explain the actual method rather than repeat the abstract.
 - Place the paper in the most specific existing category; add a category only when necessary.
 - Keep titles and links accurate, and do not add duplicate papers or duplicate versions.
 - For recent arXiv papers, use the arXiv publication year and arXiv as the venue.
 - Add the entry to data/papers.json, run python scripts/catalog.py validate, and regenerate the README with python scripts/catalog.py render.
 - Keep paper-reported results separate from independently reproduced results.
+- Cite the official paper and code links in the note. Do not copy third-party note prose or figures without compatible licensing and attribution.
 
 Please open a pull request with a short explanation of why the paper belongs in
 the list. Corrections to titles, venues, links, and categories are also welcome.

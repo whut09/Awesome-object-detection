@@ -4,13 +4,10 @@
 from __future__ import annotations
 
 import argparse
-import hashlib
 import json
 import os
-import re
 import shutil
 import tempfile
-import unicodedata
 from collections import Counter, defaultdict
 from pathlib import Path
 from typing import Any
@@ -21,7 +18,6 @@ ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_CATALOG = ROOT / "data" / "papers.json"
 README_START = "<!-- PAPER_TABLES:START -->"
 README_END = "<!-- PAPER_TABLES:END -->"
-NOTE_ROOT = Path("docs")
 REQUIRED_FIELDS = {
     "paper_id", "title", "year", "publication", "category", "paper_url",
     "institution", "summary", "task_families", "detector_family",
@@ -31,15 +27,6 @@ ALLOWED_APPLICABILITY = {
     "direct_adapter_candidate", "recipe_idea_only", "separate_detector_family",
     "incompatible", "insufficient_information",
 }
-
-
-def note_relative_path(paper: dict[str, Any]) -> Path:
-    title = unicodedata.normalize("NFKD", str(paper["title"]))
-    slug = re.sub(r"[^a-zA-Z0-9]+", "_", title).strip("_").lower()
-    slug = slug[:120].strip("_") or "paper"
-    publication = re.sub(r"[^a-zA-Z0-9]+", "", str(paper["publication"])) or "paper"
-    category = re.sub(r"[^a-zA-Z0-9]+", "_", str(paper["category"])).strip("_").lower()
-    return NOTE_ROOT / f"{publication}{paper['year']}" / category / f"{slug}.md"
 
 
 def load_catalog(path: Path = DEFAULT_CATALOG) -> list[dict[str, Any]]:
@@ -96,7 +83,6 @@ def markdown_tables(papers: list[dict[str, Any]]) -> str:
             links = f"[[paper]({paper['paper_url']})]"
             if paper.get("official_code_url"):
                 links += f" [[code]({paper['official_code_url']})]"
-            links += f" [[note]({note_relative_path(paper).as_posix()})]"
             sections.append(
                 f"| {paper['year']} | {paper['publication']} | **{paper['title']}** | {links} | {paper['institution']} |"
             )

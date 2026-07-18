@@ -16,7 +16,7 @@ detection, small-object detection, and domain-robust detection.
 ## Paper List
 
 <!-- PAPER_TABLES:START -->
-### Assignment, Loss, and Training
+## Assignment, Loss, and Training
 | Year | Pub | Title | Links | Main Institution |
 |:---:|:---:|:---|:---:|:---:|
 | 2025 | ICCV | **Rethinking Multi-modal Object Detection from the Perspective of Mono-Modality Feature Learning** | [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Zhao_Rethinking_Multi-modal_Object_Detection_from_the_Perspective_of_Mono-Modality_Feature_ICCV_2025_paper.html)] [[note](docs/ICCV2025/object_detection/rethinking_multi_modal_object_detection_from_the_perspective_of_mono_modality_feature_learning.md)] | See paper |
@@ -77,7 +77,7 @@ detection, small-object detection, and domain-robust detection.
 | 2021 | ICCV | **TOOD: Task-aligned One-stage Object Detection** | [[paper](https://arxiv.org/abs/2108.07755)] [[code](https://github.com/fcjian/TOOD)] [[note](docs/ICCV2021/object_detection/tood_task_aligned_one_stage_object_detection.md)] | SenseTime / SCUT |
 | 2021 | ICCV | **Training Multi-Object Detector by Estimating Bounding Box Distribution for Input Image** | [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Yoo_Training_Multi-Object_Detector_by_Estimating_Bounding_Box_Distribution_for_Input_ICCV_2021_paper.html)] [[note](docs/ICCV2021/object_detection/training_multi_object_detector_by_estimating_bounding_box_distribution_for_input_image.md)] | See paper |
 
-### DETR and End-to-End Detection
+## DETR and End-to-End Detection
 | Year | Pub | Title | Links | Main Institution |
 |:---:|:---:|:---|:---:|:---:|
 | 2026 | CVPR | **PaQ-DETR: Learning Pattern and Quality-Aware Dynamic Queries for Object Detection** | [[paper](https://arxiv.org/abs/2603.06917)] | See paper |
@@ -160,7 +160,7 @@ detection, small-object detection, and domain-robust detection.
 | 2021 | ICCV | **WB-DETR: Transformer-Based Detector Without Backbone** | [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_WB-DETR_Transformer-Based_Detector_Without_Backbone_ICCV_2021_paper.html)] | See paper |
 | 2021 | NeurIPS | **You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection** | [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/dc912a253d1e9ba40e2c597ed2376640-Abstract.html)] | See paper |
 
-### General Object Detection
+## General Object Detection
 | Year | Pub | Title | Links | Main Institution |
 |:---:|:---:|:---|:---:|:---:|
 | 2026 | CVPR | **A Closer Look at Cross-Domain Few-Shot Object Detection: Fine-Tuning Matters and Parallel Decoder Helps** | [[paper](https://arxiv.org/abs/2603.28182)] [[code](https://github.com/Intellindust-AI-Lab/FT-FSOD)] [[note](docs/CVPR2026/object_detection/a_closer_look_at_cross-domain_few-shot_object_detection_fine-tuning_matters_and_parallel_decoder_helps.md)] | See paper |
@@ -308,7 +308,7 @@ detection, small-object detection, and domain-robust detection.
 | 2021 | CVPR | **VarifocalNet: An IoU-Aware Dense Object Detector** | [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_VarifocalNet_An_IoU-Aware_Dense_Object_Detector_CVPR_2021_paper.html)] [[note](docs/CVPR2021/object_detection/varifocalnet_an_iou_aware_dense_object_detector.md)] | See paper |
 | 2021 | ICCV | **Vector-Decomposed Disentanglement for Domain-Invariant Object Detection** | [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Wu_Vector-Decomposed_Disentanglement_for_Domain-Invariant_Object_Detection_ICCV_2021_paper.html)] [[note](docs/ICCV2021/object_detection/vector_decomposed_disentanglement_for_domain_invariant_object_detection.md)] | See paper |
 
-### Open-Vocabulary and Grounded Detection
+## Open-Vocabulary and Grounded Detection
 | Year | Pub | Title | Links | Main Institution |
 |:---:|:---:|:---|:---:|:---:|
 | 2026 | CVPR | **Boosting Vision-Language Models Towards Cross-Domain Incremental Object Detection** | [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_Boosting_Vision-Language_Models_Towards_Cross-Domain_Incremental_Object_Detection_CVPR_2026_paper.html)] | See paper |
@@ -406,7 +406,7 @@ detection, small-object detection, and domain-robust detection.
 | 2021 | CVPR | **Open-Vocabulary Object Detection Using Captions** | [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zareian_Open-Vocabulary_Object_Detection_Using_Captions_CVPR_2021_paper.html)] | See paper |
 | 2021 | CVPR | **Towards Open World Object Detection** | [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Joseph_Towards_Open_World_Object_Detection_CVPR_2021_paper.html)] | See paper |
 
-### Open-World and Domain-Robust Detection
+## Open-World and Domain-Robust Detection
 | Year | Pub | Title | Links | Main Institution |
 |:---:|:---:|:---|:---:|:---:|
 | 2026 | CVPR | **AgentDet: A Shared-Blackboard Multi-Agent Framework for Zero-/Few-Shot Object Detection** | [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Li_AgentDet_A_Shared-Blackboard_Multi-Agent_Framework_for_Zero-Few-Shot_Object_Detection_CVPR_2026_paper.html)] | See paper |
@@ -628,7 +628,7 @@ detection, small-object detection, and domain-robust detection.
 | 2021 | ICCV | **Universal-Prototype Enhancing for Few-Shot Object Detection** | [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Wu_Universal-Prototype_Enhancing_for_Few-Shot_Object_Detection_ICCV_2021_paper.html)] | See paper |
 | 2021 | ICCV | **Wanderlust: Online Continual Object Detection in the Real World** | [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Wang_Wanderlust_Online_Continual_Object_Detection_in_the_Real_World_ICCV_2021_paper.html)] | See paper |
 
-### Small, Aerial, and Oriented Detection
+## Small, Aerial, and Oriented Detection
 | Year | Pub | Title | Links | Main Institution |
 |:---:|:---:|:---|:---:|:---:|
 | 2026 | CVPR | **Balanced Hierarchical Contrastive Learning with Decoupled Queries for Fine-grained Object Detection in Remote Sensing Images** | [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Chen_Balanced_Hierarchical_Contrastive_Learning_with_Decoupled_Queries_for_Fine-grained_Object_CVPR_2026_paper.html)] [[note](docs/CVPR2026/object_detection/balanced_hierarchical_contrastive_learning_with_decoupled_queries_for_fine_grained_object_detection_in_remote_sensing_images.md)] | See paper |
@@ -727,7 +727,7 @@ detection, small-object detection, and domain-robust detection.
 | 2021 | ICCV | **Towards Rotation Invariance in Object Detection** | [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Kalra_Towards_Rotation_Invariance_in_Object_Detection_ICCV_2021_paper.html)] [[note](docs/ICCV2021/object_detection/towards_rotation_invariance_in_object_detection.md)] | See paper |
 | 2021 | CVPR | **Variational Pedestrian Detection** | [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_Variational_Pedestrian_Detection_CVPR_2021_paper.html)] [[note](docs/CVPR2021/object_detection/variational_pedestrian_detection.md)] | See paper |
 
-### YOLO and Real-Time Detection
+## YOLO and Real-Time Detection
 | Year | Pub | Title | Links | Main Institution |
 |:---:|:---:|:---|:---:|:---:|
 | 2026 | CVPR | **AKCMamba-YOLO: Selective State Space Models For Real-Time Object Detection** | [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Chen_AKCMamba-YOLO_Selective_State_Space_Models_For_Real-Time_Object_Detection_CVPR_2026_paper.html)] [[note](docs/CVPR2026/object_detection/akcmamba-yolo_selective_state_space_models_for_real-time_object_detection.md)] | See paper |
@@ -775,24 +775,11 @@ detection, small-object detection, and domain-robust detection.
 
 ## Contributing
 
-Contributions are welcome. Please add papers that are relevant to object
-detection and follow these guidelines:
+Welcome to contribute! If you find any awesome papers or projects that are not on the list, please feel free to open a Pull Request or Issue.
 
-- Use a stable paper identifier, preferably an arXiv ID or DOI.
-- Include the title, publication year, venue, paper link, and main institution.
-- Add the official code or project link when one is available.
-- Notes are limited to Assignment, Loss, and Training; General Object Detection; Small, Aerial, and Oriented Detection; and YOLO and Real-Time Detection, because these are the categories consumed by YOLO-Agent.
-- Add note_path only after a paper-specific Chinese note is complete. Notes must be written from the paper itself and include motivation, method details, experiments, limitations, and actionable implications; catalog-field templates and unverified placeholders are not accepted.
-- Store each completed note under docs/<Venue><Year>/object_detection/, with one Markdown file per paper. Diagrams and formulas should explain the actual method rather than repeat the abstract.
-- Place the paper in the most specific existing category; add a category only when necessary.
-- Keep titles and links accurate, and do not add duplicate papers or duplicate versions.
-- For recent arXiv papers, use the arXiv publication year and arXiv as the venue.
-- Add the entry to data/papers.json, run python scripts/catalog.py validate, and regenerate the README with python scripts/catalog.py render.
-- Keep paper-reported results separate from independently reproduced results.
-- Cite the official paper and code links in the note. Do not copy third-party note prose or figures without compatible licensing and attribution.
-
-Please open a pull request with a short explanation of why the paper belongs in
-the list. Corrections to titles, venues, links, and categories are also welcome.
+1. Follow the exact format of the existing table entries.
+2. Ensure the link to the paper is working.
+3. If there is open-source code, please include the `[code]` link.
 
 ## License
 

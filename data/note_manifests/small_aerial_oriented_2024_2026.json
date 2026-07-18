@@ -1,0 +1,246 @@
+[
+  {
+    "paper_id": "arxiv:2607.08004",
+    "note_path": "docs/arXiv2026/object_detection/logos_language_guided_oriented_object_detection_in_aerial_scenes.md"
+  },
+  {
+    "paper_id": "arxiv:2603.09411",
+    "note_path": "docs/arXiv2026/object_detection/rio_detr_detr_for_real_time_oriented_object_detection.md"
+  },
+  {
+    "paper_id": "arxiv:2603.06925",
+    "note_path": "docs/CVPR2025/object_detection/small_target_detection_based_on_mask_enhanced_attention_fusion_of_visible_and_infrared_remote_sensing_images.md"
+  },
+  {
+    "paper_id": "papernotes:balanced_hierarchical_contrastive_learning_with_decoupled_queries_for_fine-grain",
+    "note_path": "docs/CVPR2026/object_detection/balanced_hierarchical_contrastive_learning_with_decoupled_queries_for_fine_grained_object_detection_in_remote_sensing_images.md"
+  },
+  {
+    "paper_id": "papernotes:bdnetbio-inspired_dual-backbone_small_object_detection_network",
+    "note_path": "docs/CVPR2026/object_detection/bdnet_bio_inspired_dual_backbone_small_object_detection_network.md"
+  },
+  {
+    "paper_id": "papernotes:chal_causal-guided_hierarchical_anomaly-aware_learning_for_moving_infrared_small",
+    "note_path": "docs/CVPR2026/object_detection/chal_causal_guided_hierarchical_anomaly_aware_learning_for_moving_infrared_small_target_detection.md"
+  },
+  {
+    "paper_id": "arxiv:2602.23790",
+    "note_path": "docs/CVPR2026/object_detection/fourier_angle_alignment_for_oriented_object_detection_in_remote_sensing.md"
+  },
+  {
+    "paper_id": "papernotes:rotation_invariant_and_symmetry_aware_pixel_difference_network_for_remote_sensin",
+    "note_path": "docs/CVPR2026/object_detection/rotation_invariant_and_symmetry_aware_pixel_difference_network_for_remote_sensing_object_detection.md"
+  },
+  {
+    "paper_id": "papernotes:seeing_through_the_noise_improving_infrared_small_target_detection_and_segmentat",
+    "note_path": "docs/CVPR2026/object_detection/seeing_through_the_noise_improving_infrared_small_target_detection_and_segmentation_from_noise_suppression_perspective.md"
+  },
+  {
+    "paper_id": "papernotes:target-aware_invertible_encoder_with_reconstruction_guidance_for_infrared_small_",
+    "note_path": "docs/CVPR2026/object_detection/target_aware_invertible_encoder_with_reconstruction_guidance_for_infrared_small_target_detection.md"
+  },
+  {
+    "paper_id": "papernotes:towards_persistence_learning_topological_constraints_for_event-based_small_objec",
+    "note_path": "docs/CVPR2026/object_detection/towards_persistence_learning_topological_constraints_for_event_based_small_object_detection.md"
+  },
+  {
+    "paper_id": "papernotes:tri-modal_fusion_transformers_for_uav-based_object_detection",
+    "note_path": "docs/CVPR2026/object_detection/tri_modal_fusion_transformers_for_uav_based_object_detection.md"
+  },
+  {
+    "paper_id": "papernotes:visual_prototype_conditioned_focal_region_generation_for_uav-based_object_detect",
+    "note_path": "docs/CVPR2026/object_detection/visual_prototype_conditioned_focal_region_generation_for_uav_based_object_detection.md"
+  },
+  {
+    "paper_id": "arxiv:2412.11154",
+    "note_path": "docs/ICCV2025/object_detection/from_easy_to_hard_progressive_active_learning_framework_for_infrared_small_target_detection_with_single_point_supervision.md"
+  },
+  {
+    "paper_id": "arxiv:2507.09896",
+    "note_path": "docs/ICCV2025/object_detection/measuring_the_impact_of_rotation_equivariance_on_aerial_object_detection.md"
+  },
+  {
+    "paper_id": "arxiv:2503.06146",
+    "note_path": "docs/ICCV2025/object_detection/openrsd_towards_open_prompts_for_object_detection_in_remote_sensing_images.md"
+  },
+  {
+    "paper_id": "arxiv:2303.01803",
+    "note_path": "docs/ICCV2025/object_detection/uncertainty_aware_gradient_stabilization_for_small_object_detection.md"
+  },
+  {
+    "paper_id": "ecva:eccv2024:1812",
+    "note_path": "docs/ECCV2024/object_detection/mutdet_mutually_optimizing_pre_training_for_remote_sensing_object_detection.md"
+  },
+  {
+    "paper_id": "ecva:eccv2024:2600",
+    "note_path": "docs/ECCV2024/object_detection/gra_detecting_oriented_objects_through_group_wise_rotating_and_attention.md"
+  },
+  {
+    "paper_id": "ecva:eccv2024:4051",
+    "note_path": "docs/ECCV2024/object_detection/projecting_points_to_axes_oriented_object_detection_via_point_axis_representation.md"
+  },
+  {
+    "paper_id": "ecva:eccv2024:6487",
+    "note_path": "docs/ECCV2024/object_detection/when_pedestrian_detection_meets_multi_modal_learning_generalist_model_and_benchmark_dataset.md"
+  },
+  {
+    "paper_id": "ecva:eccv2024:6619",
+    "note_path": "docs/ECCV2024/object_detection/multi_scale_cross_distillation_for_object_detection_in_aerial_images.md"
+  },
+  {
+    "paper_id": "ecva:eccv2024:9775",
+    "note_path": "docs/ECCV2024/object_detection/dq_detr_detr_with_dynamic_query_for_tiny_object_detection.md"
+  },
+  {
+    "paper_id": "ecva:eccv2024:11741",
+    "note_path": "docs/ECCV2024/object_detection/toward_open_vocabulary_aerial_object_detection_with_clip_activated_student_teacher_learning.md"
+  },
+  {
+    "paper_id": "ecva:eccv2024:2515",
+    "note_path": "docs/ECCV2024/object_detection/visible_and_clear_finding_tiny_objects_in_difference_map.md"
+  },
+  {
+    "paper_id": "cvf:iccv2025:Chen_Event-based_Tiny_Object_Detection_A_Benchmark_Dataset_and_Baseline",
+    "note_path": "docs/ICCV2025/object_detection/event_based_tiny_object_detection_a_benchmark_dataset_and_baseline.md"
+  },
+  {
+    "paper_id": "cvf:iccv2025:Sun_Dual_Domain_Control_via_Active_Learning_for_Remote_Sensing_Domain",
+    "note_path": "docs/ICCV2025/object_detection/dual_domain_control_via_active_learning_for_remote_sensing_domain_incremental_object_detection.md"
+  },
+  {
+    "paper_id": "cvf:iccv2025:Chen_Fusion_Meets_Diverse_Conditions_A_High-diversity_Benchmark_and_Baseline_for",
+    "note_path": "docs/ICCV2025/object_detection/fusion_meets_diverse_conditions_a_high_diversity_benchmark_and_baseline_for_uav_based_multimodal_object_detection_with_condition_cues.md"
+  },
+  {
+    "paper_id": "cvf:iccv2025:Sharma_DM-EFS_Dynamically_Multiplexed_Expanded_Features_Set_Form_for_Robust_and",
+    "note_path": "docs/ICCV2025/object_detection/dm_efs_dynamically_multiplexed_expanded_features_set_form_for_robust_and_efficient_small_object_detection.md"
+  },
+  {
+    "paper_id": "cvf:iccv2025:Wang_VISO_Accelerating_In-orbit_Object_Detection_with_Language-Guided_Mask_Learning_and",
+    "note_path": "docs/ICCV2025/object_detection/viso_accelerating_in_orbit_object_detection_with_language_guided_mask_learning_and_sparse_inference.md"
+  },
+  {
+    "paper_id": "cvf:iccv2025:Burges_Active_Learning_Meets_Foundation_Models_Fast_Remote_Sensing_Data_Annotation",
+    "note_path": "docs/ICCV2025/object_detection/active_learning_meets_foundation_models_fast_remote_sensing_data_annotation_for_object_detection.md"
+  },
+  {
+    "paper_id": "cvf:iccv2025:Liao_LLM-Assisted_Semantic_Guidance_for_Sparsely_Annotated_Remote_Sensing_Object_Detection",
+    "note_path": "docs/ICCV2025/object_detection/llm_assisted_semantic_guidance_for_sparsely_annotated_remote_sensing_object_detection.md"
+  },
+  {
+    "paper_id": "cvf:iccv2025:Zhu_WaveMamba_Wavelet-Driven_Mamba_Fusion_for_RGB-Infrared_Object_Detection",
+    "note_path": "docs/ICCV2025/object_detection/wavemamba_wavelet_driven_mamba_fusion_for_rgb_infrared_object_detection.md"
+  },
+  {
+    "paper_id": "cvf:iccv2025:Garcia-Fernandez_Superpowering_Open-Vocabulary_Object_Detectors_for_X-ray_Vision",
+    "note_path": "docs/ICCV2025/object_detection/superpowering_open_vocabulary_object_detectors_for_x_ray_vision.md"
+  },
+  {
+    "paper_id": "cvf:iccv2025:Haitman_DoppDrive_Doppler-Driven_Temporal_Aggregation_for_Improved_Radar_Object_Detection",
+    "note_path": "docs/ICCV2025/object_detection/doppdrive_doppler_driven_temporal_aggregation_for_improved_radar_object_detection.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2024:Bialer_RadSimReal_Bridging_the_Gap_Between_Synthetic_and_Real_Data_in",
+    "note_path": "docs/CVPR2024/object_detection/radsimreal_bridging_the_gap_between_synthetic_and_real_data_in_radar_object_detection_with_simulation.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2024:Xu_Rethinking_Boundary_Discontinuity_Problem_for_Oriented_Object_Detection",
+    "note_path": "docs/CVPR2024/object_detection/rethinking_boundary_discontinuity_problem_for_oriented_object_detection.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2024:Kim_Causal_Mode_Multiplexer_A_Novel_Framework_for_Unbiased_Multispectral_Pedestrian",
+    "note_path": "docs/CVPR2024/object_detection/causal_mode_multiplexer_a_novel_framework_for_unbiased_multispectral_pedestrian_detection.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2024:Peng_Scene_Adaptive_Sparse_Transformer_for_Event-based_Object_Detection",
+    "note_path": "docs/CVPR2024/object_detection/scene_adaptive_sparse_transformer_for_event_based_object_detection.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2024:Chen_Weakly_Misalignment-free_Adaptive_Feature_Alignment_for_UAVs-based_Multimodal_Object_Detection",
+    "note_path": "docs/CVPR2024/object_detection/weakly_misalignment_free_adaptive_feature_alignment_for_uavs_based_multimodal_object_detection.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2024:Wu_Relational_Matching_for_Weakly_Semi-Supervised_Oriented_Object_Detection",
+    "note_path": "docs/CVPR2024/object_detection/relational_matching_for_weakly_semi_supervised_oriented_object_detection.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2024:Li_Unleashing_Channel_Potential_Space-Frequency_Selection_Convolution_for_SAR_Object_Detection",
+    "note_path": "docs/CVPR2024/object_detection/unleashing_channel_potential_space_frequency_selection_convolution_for_sar_object_detection.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2024:Luo_PointOBB_Learning_Oriented_Object_Detection_via_Single_Point_Supervision",
+    "note_path": "docs/CVPR2024/object_detection/pointobb_learning_oriented_object_detection_via_single_point_supervision.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2024:Yu_Point2RBox_Combine_Knowledge_from_Synthetic_Visual_Patterns_for_End-to-end_Oriented",
+    "note_path": "docs/CVPR2024/object_detection/point2rbox_combine_knowledge_from_synthetic_visual_patterns_for_end_to_end_oriented_object_detection_with_single_point_supervision.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2024:Zhao_CRKD_Enhanced_Camera-Radar_Object_Detection_with_Cross-modality_Knowledge_Distillation",
+    "note_path": "docs/CVPR2024/object_detection/crkd_enhanced_camera_radar_object_detection_with_cross_modality_knowledge_distillation.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2024:Xiao_Theoretically_Achieving_Continuous_Representation_of_Oriented_Bounding_Boxes",
+    "note_path": "docs/CVPR2024/object_detection/theoretically_achieving_continuous_representation_of_oriented_bounding_boxes.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2025:Li_PointSR_Self-Regularized_Point_Supervision_for_Drone-View_Object_Detection",
+    "note_path": "docs/CVPR2025/object_detection/pointsr_self_regularized_point_supervision_for_drone_view_object_detection.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2025:Lee_ABBSPO_Adaptive_Bounding_Box_Scaling_and_Symmetric_Prior_based_Orientation",
+    "note_path": "docs/CVPR2025/object_detection/abbspo_adaptive_bounding_box_scaling_and_symmetric_prior_based_orientation_prediction_for_detecting_aerial_image_objects.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2025:Marques_GauCho_Gaussian_Distributions_with_Cholesky_Decomposition_for_Oriented_Object_Detection",
+    "note_path": "docs/CVPR2025/object_detection/gaucho_gaussian_distributions_with_cholesky_decomposition_for_oriented_object_detection.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2025:Tang_AeroGen_Enhancing_Remote_Sensing_Object_Detection_with_Diffusion-Driven_Data_Generation",
+    "note_path": "docs/CVPR2025/object_detection/aerogen_enhancing_remote_sensing_object_detection_with_diffusion_driven_data_generation.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2025:Sun_SET_Spectral_Enhancement_for_Tiny_Object_Detection",
+    "note_path": "docs/CVPR2025/object_detection/set_spectral_enhancement_for_tiny_object_detection.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2025:Zhao_ReDiffDet_Rotation-equivariant_Diffusion_Model_for_Oriented_Object_Detection",
+    "note_path": "docs/CVPR2025/object_detection/rediffdet_rotation_equivariant_diffusion_model_for_oriented_object_detection.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2025:Li_Pseudo_Visible_Feature_Fine-Grained_Fusion_for_Thermal_Object_Detection",
+    "note_path": "docs/CVPR2025/object_detection/pseudo_visible_feature_fine_grained_fusion_for_thermal_object_detection.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2025:Bian_Feature_Information_Driven_Position_Gaussian_Distribution_Estimation_for_Tiny_Object",
+    "note_path": "docs/CVPR2025/object_detection/feature_information_driven_position_gaussian_distribution_estimation_for_tiny_object_detection.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2026:Sen_RAVEN_Radar_Adaptive_Vision_Encoders_for_Efficient_Chirp-wise_Object_Detection",
+    "note_path": "docs/CVPR2026/object_detection/raven_radar_adaptive_vision_encoders_for_efficient_chirp_wise_object_detection_and_segmentation.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2026:Shi_VLM4RSDet_Collaborative_Optimization_with_Vision-Language_Model_for_Enhancing_Remote_Sensing",
+    "note_path": "docs/CVPR2026/object_detection/vlm4rsdet_collaborative_optimization_with_vision_language_model_for_enhancing_remote_sensing_object_detection.md"
+  },
+  {
+    "paper_id": "neurips:2024:47a287298e7887d1c25d4aabb918bd54-Abstract-Conference",
+    "note_path": "docs/NeurIPS2024/object_detection/progressive_exploration_conformal_learning_for_sparsely_annotated_object_detection_in_aerial_images.md"
+  },
+  {
+    "paper_id": "neurips:2024:b99d6cc40b05809c3d84b57a165448cd-Abstract-Conference",
+    "note_path": "docs/NeurIPS2024/object_detection/full_distance_evasion_of_pedestrian_detectors_in_the_physical_world.md"
+  },
+  {
+    "paper_id": "neurips:2025:8064e4ebbcbe594628887b420956d8c3-Abstract-Conference",
+    "note_path": "docs/NeurIPS2025/object_detection/flexevent_towards_flexible_event_frame_object_detection_at_varying_operational_frequencies.md"
+  },
+  {
+    "paper_id": "neurips:2025:d7b0baefb84b8ddf6fbf6ec0f5d4fda3-Abstract-Conference",
+    "note_path": "docs/NeurIPS2025/object_detection/neptune_x_active_x_to_maritime_generation_for_universal_maritime_object_detection.md"
+  },
+  {
+    "paper_id": "neurips:2025:f5a24b8fa97f7073aff5e8baadf583f1-Abstract-Conference",
+    "note_path": "docs/NeurIPS2025/object_detection/multimodal_causal_reasoning_for_uav_object_detection.md"
+  }
+]

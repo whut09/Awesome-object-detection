@@ -1,0 +1,246 @@
+[
+  {
+    "paper_id": "arxiv:2403.10173",
+    "note_path": "docs/CVPR2025/object_detection/efficient_event-based_object_detection_a_hybrid_neural_network_with_spatial_and_temporal_attention.md"
+  },
+  {
+    "paper_id": "arxiv:2412.06647",
+    "note_path": "docs/CVPR2025/object_detection/object_detection_using_event_camera_a_moe_heat_conduction_based_detector_and_a_new_benchmark_dataset.md"
+  },
+  {
+    "paper_id": "arxiv:2503.15293",
+    "note_path": "docs/CVPR2025/object_detection/test-time_backdoor_detection_for_object_detection_models.md"
+  },
+  {
+    "paper_id": "arxiv:2411.15678",
+    "note_path": "docs/CVPR2025/object_detection/towards_raw_object_detection_in_diverse_conditions.md"
+  },
+  {
+    "paper_id": "arxiv:2603.28182",
+    "note_path": "docs/CVPR2026/object_detection/a_closer_look_at_cross-domain_few-shot_object_detection_fine-tuning_matters_and_parallel_decoder_helps.md"
+  },
+  {
+    "paper_id": "papernotes:beyond_duality_a_hybrid_framework_of_leveraging_shared_and_private_features_for_",
+    "note_path": "docs/CVPR2026/object_detection/beyond_duality_a_hybrid_framework_of_leveraging_shared_and_private_features_for_rgb-event_object_detection.md"
+  },
+  {
+    "paper_id": "papernotes:distribution-aligned_multimodal_fusion_for_robust_object_detection",
+    "note_path": "docs/CVPR2026/object_detection/distribution-aligned_multimodal_fusion_for_robust_object_detection.md"
+  },
+  {
+    "paper_id": "papernotes:dyfclt_dynamic_frequency-decoupled_cross-modal_learning_transformer_for_multimod",
+    "note_path": "docs/CVPR2026/object_detection/dyfclt_dynamic_frequency-decoupled_cross-modal_learning_transformer_for_multimodal_tiny_object_detection.md"
+  },
+  {
+    "paper_id": "arxiv:2412.00666",
+    "note_path": "docs/CVPR2026/object_detection/explaining_object_detectors_via_collective_contribution_of_pixels.md"
+  },
+  {
+    "paper_id": "arxiv:2512.17514",
+    "note_path": "docs/CVPR2026/object_detection/foundation_model_priors_enhance_object_focus_in_feature_space_for_source-free_object_detection.md"
+  },
+  {
+    "paper_id": "papernotes:heuristic-inspired_reasoning_priors_facilitate_data-efficient_referring_object_d",
+    "note_path": "docs/CVPR2026/object_detection/heuristic-inspired_reasoning_priors_facilitate_data-efficient_referring_object_detection.md"
+  },
+  {
+    "paper_id": "papernotes:inscal_calibrated_multi-source_fully_test-time_prompt_tuning_for_object_detectio",
+    "note_path": "docs/CVPR2026/object_detection/inscal_calibrated_multi-source_fully_test-time_prompt_tuning_for_object_detection.md"
+  },
+  {
+    "paper_id": "papernotes:mind_the_gap_transferring_labels_to_align_object_detection_datasets",
+    "note_path": "docs/CVPR2026/object_detection/mind_the_gap_transferring_labels_to_align_object_detection_datasets.md"
+  },
+  {
+    "paper_id": "papernotes:online_data_curation_for_object_detection_via_marginal_contributions_to_dataset-",
+    "note_path": "docs/CVPR2026/object_detection/online_data_curation_for_object_detection_via_marginal_contributions_to_dataset-level_average_precision.md"
+  },
+  {
+    "paper_id": "papernotes:partial_weakly-supervised_oriented_object_detection",
+    "note_path": "docs/CVPR2026/object_detection/partial_weakly-supervised_oriented_object_detection.md"
+  },
+  {
+    "paper_id": "arxiv:2605.10349",
+    "note_path": "docs/CVPR2026/object_detection/portable_active_learning_for_object_detection.md"
+  },
+  {
+    "paper_id": "papernotes:rare_learn_to_rank_and_retrieve_for_monocular_3d_object_detection",
+    "note_path": "docs/CVPR2026/object_detection/rare_learn_to_rank_and_retrieve_for_monocular_3d_object_detection.md"
+  },
+  {
+    "paper_id": "arxiv:2603.18541",
+    "note_path": "docs/CVPR2026/object_detection/remedying_target-domain_astigmatism_for_cross-domain_few-shot_object_detection.md"
+  },
+  {
+    "paper_id": "papernotes:rhcnet_residual-guided_hierarchical_calibration_network_for_robust_underwater_ob",
+    "note_path": "docs/CVPR2026/object_detection/rhcnet_residual-guided_hierarchical_calibration_network_for_robust_underwater_object_detection.md"
+  },
+  {
+    "paper_id": "papernotes:spike-driven_discrete_aggregation_for_event-based_object_detection",
+    "note_path": "docs/CVPR2026/object_detection/spike-driven_discrete_aggregation_for_event-based_object_detection.md"
+  },
+  {
+    "paper_id": "papernotes:when_transformers_meet_mamba_a_hybrid_transformer-mamba_network_for_video_object",
+    "note_path": "docs/CVPR2026/object_detection/when_transformers_meet_mamba_a_hybrid_transformer-mamba_network_for_video_object_detection.md"
+  },
+  {
+    "paper_id": "arxiv:2508.12082",
+    "note_path": "docs/ICCV2025/object_detection/automated_model_evaluation_for_object_detection_via_prediction_consistency_and_reliability.md"
+  },
+  {
+    "paper_id": "arxiv:2507.18300",
+    "note_path": "docs/ICCV2025/object_detection/lmm-det_make_large_multimodal_models_excel_in_object_detection.md"
+  },
+  {
+    "paper_id": "arxiv:2508.00649",
+    "note_path": "docs/ICCV2025/object_detection/revisiting_adversarial_patch_defenses_on_object_detectors_unified_evaluation_large-scale_dataset_and_new_insights.md"
+  },
+  {
+    "paper_id": "arxiv:2412.00622",
+    "note_path": "docs/ICCV2025/object_detection/visual_modality_prompt_for_adapting_vision-language_object_detectors.md"
+  },
+  {
+    "paper_id": "doi:10.1007/s11263-024-02219-z",
+    "note_path": "docs/IJCV2024/object_detection/a_systematic_evaluation_of_uncertainty_calibration_in_pre-trained_object_detectors.md"
+  },
+  {
+    "paper_id": "ecva:eccv2024:763",
+    "note_path": "docs/ECCV2024/object_detection/plain-det_a_plain_multi-dataset_object_detector.md"
+  },
+  {
+    "paper_id": "ecva:eccv2024:4069",
+    "note_path": "docs/ECCV2024/object_detection/rectify_the_regression_bias_in_long-tailed_object_detection.md"
+  },
+  {
+    "paper_id": "ecva:eccv2024:6053",
+    "note_path": "docs/ECCV2024/object_detection/benchmarking_object_detectors_with_coco_a_new_path_forward.md"
+  },
+  {
+    "paper_id": "ecva:eccv2024:7259",
+    "note_path": "docs/ECCV2024/object_detection/look_around_and_learn_self-training_object_detection_by_exploration.md"
+  },
+  {
+    "paper_id": "ecva:eccv2024:8331",
+    "note_path": "docs/ECCV2024/object_detection/out-of-bounding-box_triggers_a_stealthy_approach_to_cheat_object_detectors.md"
+  },
+  {
+    "paper_id": "ecva:eccv2024:8374",
+    "note_path": "docs/ECCV2024/object_detection/a_simple_background_augmentation_method_for_object_detection_with_diffusion_model.md"
+  },
+  {
+    "paper_id": "ecva:eccv2024:8386",
+    "note_path": "docs/ECCV2024/object_detection/rethinking_features-fused-pyramid-neck_for_object_detection.md"
+  },
+  {
+    "paper_id": "ecva:eccv2024:8766",
+    "note_path": "docs/ECCV2024/object_detection/crowd-sam_sam_as_a_smart_annotator_for_object_detection_in_crowded_scenes.md"
+  },
+  {
+    "paper_id": "ecva:eccv2024:11201",
+    "note_path": "docs/ECCV2024/object_detection/embracing_events_and_frames_with_hierarchical_feature_refinement_network_for_object_detection.md"
+  },
+  {
+    "paper_id": "ecva:eccv2024:12401",
+    "note_path": "docs/ECCV2024/object_detection/modality_translation_for_object_detection_adaptation_without_forgetting_prior_knowledge.md"
+  },
+  {
+    "paper_id": "cvf:iccv2025:Zeng_From_Objects_to_Events_Unlocking_Complex_Visual_Understanding_in_Object",
+    "note_path": "docs/ICCV2025/object_detection/from_objects_to_events_unlocking_complex_visual_understanding_in_object_detectors_via_llm-guided_symbolic_reasoning.md"
+  },
+  {
+    "paper_id": "cvf:iccv2025:Gamrian_Beyond_RGB_Adaptive_Parallel_Processing_for_RAW_Object_Detection",
+    "note_path": "docs/ICCV2025/object_detection/beyond_rgb_adaptive_parallel_processing_for_raw_object_detection.md"
+  },
+  {
+    "paper_id": "cvf:iccv2025:Guo_Dark-ISP_Enhancing_RAW_Image_Processing_for_Low-Light_Object_Detection",
+    "note_path": "docs/ICCV2025/object_detection/dark-isp_enhancing_raw_image_processing_for_low-light_object_detection.md"
+  },
+  {
+    "paper_id": "cvf:iccv2025:Papais_ForeSight_Multi-View_Streaming_Joint_Object_Detection_and_Trajectory_Forecasting",
+    "note_path": "docs/ICCV2025/object_detection/foresight_multi-view_streaming_joint_object_detection_and_trajectory_forecasting.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2024:Phat_D3T_Distinctive_Dual-Domain_Teacher_Zigzagging_Across_RGB-Thermal_Gap_for_Domain-Adaptive",
+    "note_path": "docs/CVPR2024/object_detection/d3t_distinctive_dual-domain_teacher_zigzagging_across_rgb-thermal_gap_for_domain-adaptive_object_detection.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2024:Feng_InstaGen_Enhancing_Object_Detection_by_Training_on_Synthetic_Dataset",
+    "note_path": "docs/CVPR2024/object_detection/instagen_enhancing_object_detection_by_training_on_synthetic_dataset.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2024:Danish_Improving_Single_Domain-Generalized_Object_Detection_A_Focus_on_Diversification_and",
+    "note_path": "docs/CVPR2024/object_detection/improving_single_domain-generalized_object_detection_a_focus_on_diversification_and_alignment.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2024:Onzon_Neural_Exposure_Fusion_for_High-Dynamic_Range_Object_Detection",
+    "note_path": "docs/CVPR2024/object_detection/neural_exposure_fusion_for_high-dynamic_range_object_detection.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2024:Liang_AIDE_An_Automatic_Data_Engine_for_Object_Detection_in_Autonomous",
+    "note_path": "docs/CVPR2024/object_detection/aide_an_automatic_data_engine_for_object_detection_in_autonomous_driving.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2025:Yuan_SparseAlign_a_Fully_Sparse_Framework_for_Cooperative_Object_Detection",
+    "note_path": "docs/CVPR2025/object_detection/sparsealign_a_fully_sparse_framework_for_cooperative_object_detection.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2025:Sidhu_Search_and_Detect_Training-Free_Long_Tail_Object_Detection_via_Web-Image",
+    "note_path": "docs/CVPR2025/object_detection/search_and_detect_training-free_long_tail_object_detection_via_web-image_retrieval.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2025:Zhang_Style_Evolving_along_Chain-of-Thought_for_Unknown-Domain_Object_Detection",
+    "note_path": "docs/CVPR2025/object_detection/style_evolving_along_chain-of-thought_for_unknown-domain_object_detection.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2025:Zhang_Open-World_Objectness_Modeling_Unifies_Novel_Object_Detection",
+    "note_path": "docs/CVPR2025/object_detection/open-world_objectness_modeling_unifies_novel_object_detection.md"
+  },
+  {
+    "paper_id": "neurips:2024:2c2e95b75a10adbd2359f8ed5c0a38cd-Abstract-Conference",
+    "note_path": "docs/NeurIPS2024/object_detection/dipex_dispersing_prompt_expansion_for_class-agnostic_object_detection.md"
+  },
+  {
+    "paper_id": "neurips:2024:510950c4e75d8bbe430dbe01c8ad2426-Abstract-Conference",
+    "note_path": "docs/NeurIPS2024/object_detection/adaptive_important_region_selection_with_reinforced_hierarchical_search_for_dense_object_detection.md"
+  },
+  {
+    "paper_id": "neurips:2024:6f1346bac8b02f76a631400e2799b24b-Abstract-Conference",
+    "note_path": "docs/NeurIPS2024/object_detection/di-maskdino_a_joint_object_detection_and_instance_segmentation_model.md"
+  },
+  {
+    "paper_id": "neurips:2024:743771397cef2aa0ef497c428c3a46b7-Abstract-Conference",
+    "note_path": "docs/NeurIPS2024/object_detection/odgen_domain-specific_object_detection_data_generation_with_diffusion_models.md"
+  },
+  {
+    "paper_id": "neurips:2024:b9b1d29de259b82c944b03b7322eae45-Abstract-Conference",
+    "note_path": "docs/NeurIPS2024/object_detection/unsupervised_object_detection_with_theoretical_guarantees.md"
+  },
+  {
+    "paper_id": "neurips:2024:cc596a803bedc7a03a87e98c77a22efe-Abstract-Conference",
+    "note_path": "docs/NeurIPS2024/object_detection/adaptiveisp_learning_an_adaptive_image_signal_processor_for_object_detection.md"
+  },
+  {
+    "paper_id": "neurips:2024:e7eb8128eb26eafbe901348df1dbacdc-Abstract-Conference",
+    "note_path": "docs/NeurIPS2024/object_detection/sardet-100k_towards_open-source_benchmark_and_toolkit_for_large-scale_sar_object_detection.md"
+  },
+  {
+    "paper_id": "neurips:2025:21168020249eccddcc1736ec79bd096f-Abstract-Conference",
+    "note_path": "docs/NeurIPS2025/object_detection/cq-dino_mitigating_gradient_dilution_via_category_queries_for_vast_vocabulary_object_detection.md"
+  },
+  {
+    "paper_id": "neurips:2025:6c83f1f1290e80236587e4c89fa24f4e-Abstract-Conference",
+    "note_path": "docs/NeurIPS2025/object_detection/recon_region-controllable_data_augmentation_with_rectification_and_alignment_for_object_detection.md"
+  },
+  {
+    "paper_id": "neurips:2025:7dbdf006424e7749c8a35913d3574c4e-Abstract-Conference",
+    "note_path": "docs/NeurIPS2025/object_detection/t-norm_selection_for_object_detection_in_autonomous_driving_with_logical_constraints.md"
+  },
+  {
+    "paper_id": "neurips:2025:9718ad22f53ea3566cdd5011844728dc-Abstract-Conference",
+    "note_path": "docs/NeurIPS2025/object_detection/towards_single-source_domain_generalized_object_detection_via_causal_visual_prompts.md"
+  },
+  {
+    "paper_id": "neurips:2025:d450dceeacd6083d1d550247377f2320-Abstract-Conference",
+    "note_path": "docs/NeurIPS2025/object_detection/rethinking_scale-aware_temporal_encoding_for_event-based_object_detection.md"
+  }
+]

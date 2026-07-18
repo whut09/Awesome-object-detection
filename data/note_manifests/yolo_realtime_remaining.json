@@ -1,0 +1,118 @@
+[
+  {
+    "paper_id": "arxiv:2107.08430",
+    "note_path": "docs/arXiv2021/object_detection/yolox_exceeding_yolo_series_in_2021.md"
+  },
+  {
+    "paper_id": "arxiv:2207.02696",
+    "note_path": "docs/CVPR2023/object_detection/yolov7_trainable_bag-of-freebies_sets_new_state-of-the-art_for_real-time_object_detectors.md"
+  },
+  {
+    "paper_id": "arxiv:2203.16250",
+    "note_path": "docs/arXiv2022/object_detection/pp-yoloe_an_evolved_version_of_yolo.md"
+  },
+  {
+    "paper_id": "arxiv:2212.07784",
+    "note_path": "docs/arXiv2022/object_detection/rtmdet_an_empirical_study_of_designing_real-time_object_detectors.md"
+  },
+  {
+    "paper_id": "arxiv:2309.11331",
+    "note_path": "docs/NeurIPS2023/object_detection/gold-yolo_efficient_object_detector_via_gather-and-distribute_mechanism.md"
+  },
+  {
+    "paper_id": "arxiv:2304.08069",
+    "note_path": "docs/CVPR2024/object_detection/detrs_beat_yolos_on_real-time_object_detection.md"
+  },
+  {
+    "paper_id": "arxiv:2406.03459",
+    "note_path": "docs/arXiv2024/object_detection/lw-detr_a_transformer_replacement_to_yolo_for_real-time_detection.md"
+  },
+  {
+    "paper_id": "arxiv:2305.09972",
+    "note_path": "docs/arXiv2023/object_detection/real-time_flying_object_detection_with_yolov8.md"
+  },
+  {
+    "paper_id": "arxiv:2208.09686",
+    "note_path": "docs/AAAI2023/object_detection/yolov_making_still_image_object_detectors_great_at_video_object_detection.md"
+  },
+  {
+    "paper_id": "arxiv:2211.15444",
+    "note_path": "docs/arXiv2022/object_detection/damo-yolo_a_report_on_real-time_object_detection_design.md"
+  },
+  {
+    "paper_id": "arxiv:2105.12931",
+    "note_path": "docs/arXiv2021/object_detection/yolo5face_why_reinventing_a_face_detector.md"
+  },
+  {
+    "paper_id": "ecva:eccv2024:4704",
+    "note_path": "docs/ECCV2024/object_detection/integer-valued_training_and_spike-driven_inference_spiking_neural_network_for_high-performance_and_energy-efficient_object_detection.md"
+  },
+  {
+    "paper_id": "ecva:eccv2022:6037",
+    "note_path": "docs/ECCV2022/object_detection/salisa_saliency-based_input_sampling_for_efficient_video_object_detection.md"
+  },
+  {
+    "paper_id": "ecva:eccv2022:2483",
+    "note_path": "docs/ECCV2022/object_detection/eautodet_efficient_architecture_search_for_object_detection.md"
+  },
+  {
+    "paper_id": "ecva:eccv2022:5441",
+    "note_path": "docs/ECCV2022/object_detection/bridging_images_and_videos_a_simple_learning_framework_for_large_vocabulary_video_object_detection.md"
+  },
+  {
+    "paper_id": "ecva:eccv2022:3247",
+    "note_path": "docs/ECCV2022/object_detection/efficient_one-stage_video_object_detection_by_exploiting_temporal_consistency.md"
+  },
+  {
+    "paper_id": "cvf:iccv2023:Liu_Objects_Do_Not_Disappear_Video_Object_Detection_by_Single-Frame_Object",
+    "note_path": "docs/ICCV2023/object_detection/objects_do_not_disappear_video_object_detection_by_single-frame_object_location_anticipation.md"
+  },
+  {
+    "paper_id": "cvf:iccv2023:Tu_FemtoDet_An_Object_Detection_Baseline_for_Energy_Versus_Performance_Tradeoffs",
+    "note_path": "docs/ICCV2023/object_detection/femtodet_an_object_detection_baseline_for_energy_versus_performance_tradeoffs.md"
+  },
+  {
+    "paper_id": "cvf:iccv2023:Deng_Identity-Consistent_Aggregation_for_Video_Object_Detection",
+    "note_path": "docs/ICCV2023/object_detection/identity-consistent_aggregation_for_video_object_detection.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2021:Xiong_MobileDets_Searching_for_Object_Detection_Architectures_for_Mobile_Accelerators",
+    "note_path": "docs/CVPR2021/object_detection/mobiledets_searching_for_object_detection_architectures_for_mobile_accelerators.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2021:Wang_Scaled-YOLOv4_Scaling_Cross_Stage_Partial_Network",
+    "note_path": "docs/CVPR2021/object_detection/scaled-yolov4_scaling_cross_stage_partial_network.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2022:Xu_SmartAdapt_Multi-Branch_Object_Detection_Framework_for_Videos_on_Mobiles",
+    "note_path": "docs/CVPR2022/object_detection/smartadapt_multi-branch_object_detection_framework_for_videos_on_mobiles.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2022:Yang_Real-Time_Object_Detection_for_Streaming_Perception",
+    "note_path": "docs/CVPR2022/object_detection/real-time_object_detection_for_streaming_perception.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2023:Ghosh_Learned_Two-Plane_Perspective_Prior_Based_Image_Resampling_for_Efficient_Object",
+    "note_path": "docs/CVPR2023/object_detection/learned_two-plane_perspective_prior_based_image_resampling_for_efficient_object_detection.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2024:Wu_LEOD_Label-Efficient_Object_Detection_for_Event_Cameras",
+    "note_path": "docs/CVPR2024/object_detection/leod_label-efficient_object_detection_for_event_cameras.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2024:Fan_SFOD_Spiking_Fusion_Object_Detector",
+    "note_path": "docs/CVPR2024/object_detection/sfod_spiking_fusion_object_detector.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2025:Li_Brain-Inspired_Spiking_Neural_Networks_for_Energy-Efficient_Object_Detection",
+    "note_path": "docs/CVPR2025/object_detection/brain-inspired_spiking_neural_networks_for_energy-efficient_object_detection.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2025:Berdan_ReRAW_RGB-to-RAW_Image_Reconstruction_via_Stratified_Sampling_for_Efficient_Object",
+    "note_path": "docs/CVPR2025/object_detection/reraw_rgb-to-raw_image_reconstruction_via_stratified_sampling_for_efficient_object_detection_on_the_edge.md"
+  },
+  {
+    "paper_id": "neurips:2025:8c83381162f247df48f101b3aaa7c440-Abstract-Conference",
+    "note_path": "docs/NeurIPS2025/object_detection/real-time_scene-adaptive_tone_mapping_for_high-dynamic_range_object_detection.md"
+  }
+]

@@ -1,0 +1,230 @@
+[
+  {
+    "paper_id": "arxiv:2108.07755",
+    "note_path": "docs/ICCV2021/object_detection/tood_task_aligned_one_stage_object_detection.md"
+  },
+  {
+    "paper_id": "arxiv:2103.14259",
+    "note_path": "docs/CVPR2021/object_detection/ota_optimal_transport_assignment_for_object_detection.md"
+  },
+  {
+    "paper_id": "arxiv:2310.05666",
+    "note_path": "docs/ICCV2023/object_detection/anchor_intermediate_detector_decoupling_and_coupling_bounding_boxes_for_accurate_object_detection.md"
+  },
+  {
+    "paper_id": "arxiv:2301.01019",
+    "note_path": "docs/AAAI2023/object_detection/correlation_loss_enforcing_correlation_between_classification_and_localization.md"
+  },
+  {
+    "paper_id": "arxiv:2303.14404",
+    "note_path": "docs/CVPR2023/object_detection/bridging_precision_and_confidence_a_train_time_loss_for_calibrating_object_detection.md"
+  },
+  {
+    "paper_id": "arxiv:2203.09730",
+    "note_path": "docs/CVPR2022/object_detection/a_dual_weighting_label_assignment_scheme_for_object_detection.md"
+  },
+  {
+    "paper_id": "arxiv:2208.00817",
+    "note_path": "docs/arXiv2022/object_detection/dsla_dynamic_smooth_label_assignment_for_efficient_anchor_free_object_detection.md"
+  },
+  {
+    "paper_id": "arxiv:2109.05986",
+    "note_path": "docs/arXiv2021/object_detection/mutual_supervision_for_dense_object_detection.md"
+  },
+  {
+    "paper_id": "arxiv:2104.14082",
+    "note_path": "docs/CVPRW2021/object_detection/pseudo_iou_improving_label_assignment_in_anchor_free_object_detection.md"
+  },
+  {
+    "paper_id": "ecva:eccv2024:3148",
+    "note_path": "docs/ECCV2024/object_detection/on_calibration_of_object_detectors_pitfalls_evaluation_and_baselines.md"
+  },
+  {
+    "paper_id": "ecva:eccv2024:7634",
+    "note_path": "docs/ECCV2024/object_detection/bucketed_ranking_based_losses_for_efficient_training_of_object_detectors.md"
+  },
+  {
+    "paper_id": "ecva:eccv2024:11200",
+    "note_path": "docs/ECCV2024/object_detection/distilling_knowledge_from_large_scale_image_models_for_object_detection.md"
+  },
+  {
+    "paper_id": "ecva:eccv2024:12292",
+    "note_path": "docs/ECCV2024/object_detection/adaptive_bounding_box_uncertainties_via_two_step_conformal_prediction.md"
+  },
+  {
+    "paper_id": "ecva:eccv2022:1356",
+    "note_path": "docs/ECCV2022/object_detection/prediction_guided_distillation_for_dense_object_detection.md"
+  },
+  {
+    "paper_id": "ecva:eccv2022:2285",
+    "note_path": "docs/ECCV2022/object_detection/head_hetero_assists_distillation_for_heterogeneous_object_detectors.md"
+  },
+  {
+    "paper_id": "ecva:eccv2022:2717",
+    "note_path": "docs/ECCV2022/object_detection/distilling_object_detectors_with_global_knowledge.md"
+  },
+  {
+    "paper_id": "ecva:eccv2022:6328",
+    "note_path": "docs/ECCV2022/object_detection/glamd_global_and_local_attention_mask_distillation_for_object_detectors.md"
+  },
+  {
+    "paper_id": "ecva:eccv2022:7151",
+    "note_path": "docs/ECCV2022/object_detection/should_all_proposals_be_treated_equally_in_object_detection.md"
+  },
+  {
+    "paper_id": "cvf:iccv2021:Yao_G-DetKD_Towards_General_Distillation_Framework_for_Object_Detectors_via_Contrastive",
+    "note_path": "docs/ICCV2021/object_detection/g_detkd_towards_general_distillation_framework_for_object_detectors_via_contrastive_and_semantic_guided_feature_imitation.md"
+  },
+  {
+    "paper_id": "cvf:iccv2021:Xie_DetCo_Unsupervised_Contrastive_Learning_for_Object_Detection",
+    "note_path": "docs/ICCV2021/object_detection/detco_unsupervised_contrastive_learning_for_object_detection.md"
+  },
+  {
+    "paper_id": "cvf:iccv2021:Chen_Deep_Structured_Instance_Graph_for_Distilling_Object_Detectors",
+    "note_path": "docs/ICCV2021/object_detection/deep_structured_instance_graph_for_distilling_object_detectors.md"
+  },
+  {
+    "paper_id": "cvf:iccv2021:Yoo_Training_Multi-Object_Detector_by_Estimating_Bounding_Box_Distribution_for_Input",
+    "note_path": "docs/ICCV2021/object_detection/training_multi_object_detector_by_estimating_bounding_box_distribution_for_input_image.md"
+  },
+  {
+    "paper_id": "cvf:iccv2021:Cui_TF-Blender_Temporal_Feature_Blender_for_Video_Object_Detection",
+    "note_path": "docs/ICCV2021/object_detection/tf_blender_temporal_feature_blender_for_video_object_detection.md"
+  },
+  {
+    "paper_id": "cvf:iccv2021:Mustikovela_Self-Supervised_Object_Detection_via_Generative_Image_Synthesis",
+    "note_path": "docs/ICCV2021/object_detection/self_supervised_object_detection_via_generative_image_synthesis.md"
+  },
+  {
+    "paper_id": "cvf:iccv2021:Zhao_GraphFPN_Graph_Feature_Pyramid_Network_for_Object_Detection",
+    "note_path": "docs/ICCV2021/object_detection/graphfpn_graph_feature_pyramid_network_for_object_detection.md"
+  },
+  {
+    "paper_id": "cvf:iccv2023:Hashmi_FeatEnHancer_Enhancing_Hierarchical_Features_for_Object_Detection_and_Beyond_Under",
+    "note_path": "docs/ICCV2023/object_detection/featenhancer_enhancing_hierarchical_features_for_object_detection_and_beyond_under_low_light_vision.md"
+  },
+  {
+    "paper_id": "cvf:iccv2023:Wilson_SAFE_Sensitivity-Aware_Features_for_Out-of-Distribution_Object_Detection",
+    "note_path": "docs/ICCV2023/object_detection/safe_sensitivity_aware_features_for_out_of_distribution_object_detection.md"
+  },
+  {
+    "paper_id": "cvf:iccv2023:Yang_Bridging_Cross-task_Protocol_Inconsistency_for_Distillation_in_Dense_Object_Detection",
+    "note_path": "docs/ICCV2023/object_detection/bridging_the_gap_between_classification_and_localization_for_better_feature_alignment.md"
+  },
+  {
+    "paper_id": "cvf:iccv2023:Lao_UniKD_Universal_Knowledge_Distillation_for_Mimicking_Homogeneous_or_Heterogeneous_Object",
+    "note_path": "docs/ICCV2023/object_detection/unikd_universal_knowledge_distillation_for_mimicking_homogeneous_or_heterogeneous_object_detectors.md"
+  },
+  {
+    "paper_id": "cvf:iccv2023:Akiva_Self-Supervised_Object_Detection_from_Egocentric_Videos",
+    "note_path": "docs/ICCV2023/object_detection/self_supervised_object_detection_from_egocentric_videos.md"
+  },
+  {
+    "paper_id": "cvf:iccv2025:Zhao_Rethinking_Multi-modal_Object_Detection_from_the_Perspective_of_Mono-Modality_Feature",
+    "note_path": "docs/ICCV2025/object_detection/rethinking_multi_modal_object_detection_from_the_perspective_of_mono_modality_feature_learning.md"
+  },
+  {
+    "paper_id": "cvf:iccv2025:Li_Task-Specific_Zero-shot_Quantization-Aware_Training_for_Object_Detection",
+    "note_path": "docs/ICCV2025/object_detection/task_specific_zero_shot_quantization_aware_training_for_object_detection.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2021:Guo_Distilling_Object_Detectors_via_Decoupled_Features",
+    "note_path": "docs/CVPR2021/object_detection/distilling_object_detectors_via_decoupled_features.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2021:Wang_Adaptive_Class_Suppression_Loss_for_Long-Tail_Object_Detection",
+    "note_path": "docs/CVPR2021/object_detection/adaptive_class_suppression_loss_for_long_tail_object_detection.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2021:Dai_General_Instance_Distillation_for_Object_Detection",
+    "note_path": "docs/CVPR2021/object_detection/general_instance_distillation_for_object_detection.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2021:Li_Generalized_Focal_Loss_V2_Learning_Reliable_Localization_Quality_Estimation_for",
+    "note_path": "docs/CVPR2021/object_detection/generalized_focal_loss_v2_learning_reliable_localization_quality_estimation_for_dense_object_detection.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2021:Valverde_There_Is_More_Than_Meets_the_Eye_Self-Supervised_Multi-Object_Detection",
+    "note_path": "docs/CVPR2021/object_detection/there_is_more_than_meets_the_eye_self_supervised_multi_object_detection_and_tracking_with_sound_by_distilling_multimodal_knowledge.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2022:Wang_C2AM_Loss_Chasing_a_Better_Decision_Boundary_for_Long-Tail_Object",
+    "note_path": "docs/CVPR2022/object_detection/c2am_loss_chasing_a_better_decision_boundary_for_long_tail_object_detection.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2022:Xu_Revisiting_AP_Loss_for_Dense_Object_Detection_Adaptive_Ranking_Pair",
+    "note_path": "docs/CVPR2022/object_detection/revisiting_ap_loss_for_dense_object_detection_adaptive_ranking_pair_selection.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2022:He_Cross_Domain_Object_Detection_by_Target-Perceived_Dual_Branch_Distillation",
+    "note_path": "docs/CVPR2022/object_detection/cross_domain_object_detection_by_target_perceived_dual_branch_distillation.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2022:Zheng_Localization_Distillation_for_Dense_Object_Detection",
+    "note_path": "docs/CVPR2022/object_detection/localization_distillation_for_dense_object_detection.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2023:Pathiraja_Multiclass_Confidence_and_Localization_Calibration_for_Object_Detection",
+    "note_path": "docs/CVPR2023/object_detection/multiclass_confidence_and_localization_calibration_for_object_detection.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2023:Oksuz_Towards_Building_Self-Aware_Object_Detectors_via_Reliable_Uncertainty_Quantification_and",
+    "note_path": "docs/CVPR2023/object_detection/towards_building_self_aware_object_detectors_via_reliable_uncertainty_quantification_and_calibration.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2024:Wang_CrossKD_Cross-Head_Knowledge_Distillation_for_Object_Detection",
+    "note_path": "docs/CVPR2024/object_detection/crosskd_cross_head_knowledge_distillation_for_object_detection.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2024:Yang_Active_Object_Detection_with_Knowledge_Aggregation_and_Distillation_from_Large",
+    "note_path": "docs/CVPR2024/object_detection/active_object_detection_with_knowledge_aggregation_and_distillation_from_large_models.md"
+  },
+  {
+    "paper_id": "cvf:cvpr2024:Ding_Reg-PTQ_Regression-specialized_Post-training_Quantization_for_Fully_Quantized_Object_Detector",
+    "note_path": "docs/CVPR2024/object_detection/reg_ptq_regression_specialized_post_training_quantization_for_fully_quantized_object_detector.md"
+  },
+  {
+    "paper_id": "neurips:2021:082a8bbf2c357c09f26675f9cf5bcba3-Abstract",
+    "note_path": "docs/NeurIPS2021/object_detection/distilling_image_classifiers_in_object_detectors.md"
+  },
+  {
+    "paper_id": "neurips:2021:29c0c0ee223856f336d7ea8052057753-Abstract",
+    "note_path": "docs/NeurIPS2021/object_detection/distilling_object_detectors_with_feature_richness.md"
+  },
+  {
+    "paper_id": "neurips:2021:5e15fb59326e7a9c3d6558ca74621683-Abstract",
+    "note_path": "docs/NeurIPS2021/object_detection/bootstrap_your_object_detector_via_mixed_training.md"
+  },
+  {
+    "paper_id": "neurips:2021:892c91e0a653ba19df81a90f89d99bcd-Abstract",
+    "note_path": "docs/NeurIPS2021/object_detection/instance_conditional_knowledge_distillation_for_object_detection.md"
+  },
+  {
+    "paper_id": "neurips:2021:a8f15eda80c50adb0e71943adc8015cf-Abstract",
+    "note_path": "docs/NeurIPS2021/object_detection/alpha_iou_a_family_of_power_intersection_over_union_losses_for_bounding_box_regression.md"
+  },
+  {
+    "paper_id": "neurips:2021:b9009beb804fa097c04d226a8ba5102e-Abstract",
+    "note_path": "docs/NeurIPS2021/object_detection/searching_parameterized_ap_loss_for_object_detection.md"
+  },
+  {
+    "paper_id": "neurips:2022:18c0102cb7f1a02c14f0929089b2e576-Abstract-Conference",
+    "note_path": "docs/NeurIPS2022/object_detection/structural_knowledge_distillation_for_object_detection.md"
+  },
+  {
+    "paper_id": "neurips:2022:50ca96a1a9ebe0b5e5688a504feb6107-Abstract-Conference",
+    "note_path": "docs/NeurIPS2022/object_detection/unsupervised_object_detection_pretraining_with_joint_object_priors_generation_and_detector_learning.md"
+  },
+  {
+    "paper_id": "neurips:2022:631ad9ae3174bf4d6c0f6fdca77335a4-Abstract-Conference",
+    "note_path": "docs/NeurIPS2022/object_detection/pkd_general_distillation_framework_for_object_detectors_via_pearson_correlation_coefficient.md"
+  },
+  {
+    "paper_id": "neurips:2022:76bea0a1cf7bf9b78f842009f6de15a1-Abstract-Conference",
+    "note_path": "docs/NeurIPS2022/object_detection/large_batch_optimization_for_dense_visual_predictions_training_faster_r_cnn_in_4_2_minutes.md"
+  },
+  {
+    "paper_id": "neurips:2024:80f48ffa8022773973a4a5cec7cce19c-Abstract-Conference",
+    "note_path": "docs/NeurIPS2024/object_detection/training_free_open_ended_object_detection_and_segmentation_via_attention_as_prompts.md"
+  }
+]

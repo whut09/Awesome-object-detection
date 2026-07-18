@@ -35,6 +35,15 @@ class CatalogTests(unittest.TestCase):
             if paper.get("note_path"):
                 self.assertIn(f"[[note]({paper['note_path']})]", rendered)
 
+    def test_notes_only_exist_in_yolo_agent_categories(self) -> None:
+        allowed = {
+            "Assignment, Loss, and Training",
+            "General Object Detection",
+            "Small, Aerial, and Oriented Detection",
+            "YOLO and Real-Time Detection",
+        }
+        self.assertTrue(all(paper["category"] in allowed for paper in self.papers if paper.get("note_path")))
+
     def test_sync_merges_and_preserves_existing_records(self) -> None:
         with tempfile.TemporaryDirectory() as directory:
             root = Path(directory)

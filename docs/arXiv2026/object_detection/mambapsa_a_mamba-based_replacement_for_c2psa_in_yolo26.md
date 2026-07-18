@@ -1,0 +1,56 @@
+---
+title: "[论文解读] MambaPSA: A Mamba-based Replacement for C2PSA in YOLO26"
+description: "在 YOLO26-Nano 中用双向视觉 Mamba 替换 C2PSA，比较状态空间模块的不同放置位置。"
+tags: ["arXiv 2026", "YOLO26", "Mamba", "C2PSA", "轻量检测"]
+---
+
+# MambaPSA: A Mamba-based Replacement for C2PSA in YOLO26
+
+**论文**: [arXiv](https://arxiv.org/abs/2607.12681)  
+**任务**: 轻量实时检测 / 注意力替换
+
+## 一句话总结
+
+论文把 YOLO26-Nano 中的 C2PSA 注意力块替换为 MambaPSA，并比较在 P3、P4、P5 等不同金字塔层放置双向视觉状态空间模块的效果，目标是在 CPU 和小模型场景下降低全局建模成本。
+
+## 方法详解
+
+MambaPSA 延续 CSP/PSA 的通道分流：一部分特征保留捷径，另一部分进入双向 Vision Mamba，随后拼接和投影。状态空间分支沿两个方向扫描序列，减少单向递推造成的方向偏置。
+
+```mermaid
+flowchart LR
+    X[输入] --> Split[通道分流]
+    Split --> B[保留分支]
+    Split --> M[双向 Vision Mamba]
+    B --> C[拼接 + 投影]
+    M --> C
+    C --> Y[输出]
+```
+
+论文重点不是提出全新检测框架，而是做**放置位置研究**：状态空间模块放在不同尺度层，对感受野、细节保留和运行时间的影响不同。高分辨率 P3 更利于小目标但计算大，低分辨率 P5 成本低但细节有限。
+
+## 实验与证据
+
+- 基于 YOLO26-Nano，在 PASCAL VOC 2007 test 上报告各类别 mAP50:95。
+- 比较基线、不同单层放置和多层组合，并报告参数量、FLOPs 与运行时间。
+- 结果显示 Mamba 模块并非放得越多越好；位置选择比简单全量替换更重要。
+- 论文篇幅和实验规模较小，应视为结构探索而非成熟 SOTA 结论。
+
+## 对 YOLO-Agent 的启发
+
+- 将 `placement={P3,P4,P5}`、扫描方向和状态维度作为 Harness 参数。
+- 优先使用 VOC/COCO 小规模短训练筛选位置，再进行完整训练。
+- 同时测 GPU、CPU 和导出后端；Mamba 的理论复杂度不等于目标设备延迟。
+- 设置 C2PSA、无全局模块和普通卷积大核三个对照组。
+
+## 局限
+
+- 只有两页主体内容，实验数据集和模型规模有限。
+- 缺少大规模 COCO 与多硬件验证。
+- 状态空间算子在常见边缘推理后端的支持仍不稳定。
+
+## 评分
+
+- **创新性**: ★★★☆☆
+- **证据强度**: ★★☆☆☆
+- **YOLO-Agent 参考价值**: ★★★☆☆

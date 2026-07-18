@@ -27,6 +27,12 @@ ALLOWED_APPLICABILITY = {
     "direct_adapter_candidate", "recipe_idea_only", "separate_detector_family",
     "incompatible", "insufficient_information",
 }
+NOTE_CATEGORIES = {
+    "Assignment, Loss, and Training",
+    "General Object Detection",
+    "Small, Aerial, and Oriented Detection",
+    "YOLO and Real-Time Detection",
+}
 
 
 def load_catalog(path: Path = DEFAULT_CATALOG) -> list[dict[str, Any]]:
@@ -64,6 +70,8 @@ def validate_catalog(papers: list[dict[str, Any]]) -> list[str]:
                 errors.append(f"{label}: {key} must be an HTTP(S) URL")
         note_path = paper.get("note_path")
         if note_path:
+            if paper.get("category") not in NOTE_CATEGORIES:
+                errors.append(f"{label}: notes are not enabled for category {paper.get('category')}")
             note_file = ROOT / str(note_path)
             if note_file.suffix.lower() != ".md":
                 errors.append(f"{label}: note_path must point to a Markdown file")

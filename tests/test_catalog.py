@@ -35,10 +35,10 @@ class CatalogTests(unittest.TestCase):
             if paper.get("note_path"):
                 self.assertIn(f"[[note]({paper['note_path']})]", rendered)
 
-    def test_paper_categories_use_level_two_headings(self) -> None:
+    def test_paper_categories_are_subheadings(self) -> None:
         rendered = markdown_tables(self.papers)
-        self.assertIn("## Assignment, Loss, and Training", rendered)
-        self.assertNotIn("### Assignment, Loss, and Training", rendered)
+        self.assertIn("### Assignment, Loss, and Training", rendered)
+        self.assertNotIn("\n## Assignment, Loss, and Training", rendered)
 
     def test_notes_only_exist_in_yolo_agent_categories(self) -> None:
         allowed = {

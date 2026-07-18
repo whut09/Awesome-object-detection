@@ -90,7 +90,7 @@ def markdown_tables(papers: list[dict[str, Any]]) -> str:
     sections: list[str] = []
     for category in sorted(grouped):
         sections.extend([
-            f"## {category}",
+            f"### {category}",
             "| Year | Pub | Title | Links | Main Institution |",
             "|:---:|:---:|:---|:---:|:---:|",
         ])

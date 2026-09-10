@@ -7,6 +7,8 @@ A curated list of object detection papers from 2021 to 2026, including
 real-time detection, end-to-end detection, open-vocabulary detection, oriented
 detection, small-object detection, and domain-robust detection.
 
+The latest arXiv refresh covers submissions from 2026-06-10 through 2026-09-09.
+
 ## Table of Contents
 
 - [Paper List](#paper-list)

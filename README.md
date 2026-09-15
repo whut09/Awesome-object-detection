@@ -341,8 +341,10 @@ This project serves as a paper-driven knowledge base for the automatic optimizat
 |:---:|:---:|:---|:---:|:---:|
 | 2026 | CVPR | **Boosting Vision-Language Models Towards Cross-Domain Incremental Object Detection** | [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_Boosting_Vision-Language_Models_Towards_Cross-Domain_Incremental_Object_Detection_CVPR_2026_paper.html)] | See paper |
 | 2026 | CVPR | **Consistency Beyond Contrast: Enhancing Open-Vocabulary Object Detection Robustness via Contextual Consistency Learning** | [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Li_Consistency_Beyond_Contrast_Enhancing_Open-Vocabulary_Object_Detection_Robustness_via_Contextual_CVPR_2026_paper.html)] | See paper |
+| 2026 | ECCV | **CoT-PL: Chain-of-Thought Pseudo-Labeling for Open-Vocabulary Object Detection** | [[paper](https://arxiv.org/abs/2510.14792)] | KAIST |
 | 2026 | arXiv | **DeCo-DETR: Decoupled Cognition DETR for Efficient Open-Vocabulary Object Detection** | [[paper](https://arxiv.org/abs/2604.02753)] | University of Science and Technology of China |
 | 2026 | arXiv | **DroneGround: Open-Vocabulary Drone Payload Characterization Using Synthetic Data and Grounded Vision-Language Models** | [[paper](https://arxiv.org/abs/2609.07780)] | See paper |
+| 2026 | ECCV | **Explicit Semantic-Spatial Alignment for Open-Vocabulary Object Detection** | [[paper](https://eccv.ecva.net/virtual/2026/poster/3568)] | See paper |
 | 2026 | arXiv | **FlowOVD: Learning Generative Latent Flows for Zero-shot Open-vocabulary Detection** | [[paper](https://arxiv.org/abs/2606.00782)] | University of California, Merced |
 | 2026 | CVPR | **NoOVD: Novel Category Discovery and Embedding for Open-Vocabulary Object Detection** | [[paper](https://arxiv.org/abs/2603.21069)] | See paper |
 | 2026 | arXiv | **Open-Vocabulary 3D Object Detection with Co-Distillation Discovery and Dual Guidance Robust Training** | [[paper](https://arxiv.org/abs/2608.19973)] | See paper |
@@ -460,16 +462,19 @@ This project serves as a paper-driven knowledge base for the automatic optimizat
 | 2026 | arXiv | **If It Moves, Radar Knows: A Physics-Aware Radar Transformer for Class-Agnostic Moving-Object Detection** | [[paper](https://arxiv.org/abs/2609.02289)] | See paper |
 | 2026 | CVPR | **Incremental Object Detection via Future-Aware Decoupled Cross-Head Distillation** | [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Yin_Incremental_Object_Detection_via_Future-Aware_Decoupled_Cross-Head_Distillation_CVPR_2026_paper.html)] | See paper |
 | 2026 | arXiv | **Multimodal Semantic-Probabilistic Objectness for Open World Object Detection** | [[paper](https://arxiv.org/abs/2607.23981)] | See paper |
+| 2026 | ECCV | **NegAS: Negative Label Guided Attention and Scoring for Out-of-Distribution Object Detection with Vision-Language Models** | [[paper](https://arxiv.org/abs/2606.22537)] | See paper |
 | 2026 | CVPR | **Parameterized Prompt for Incremental Object Detection** | [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/An_Parameterized_Prompt_for_Incremental_Object_Detection_CVPR_2026_paper.html)] | See paper |
 | 2026 | arXiv | **Privacy-Preserving Object Detection for Vision Transformer-Based Models** | [[paper](https://arxiv.org/abs/2608.20712)] | See paper |
-| 2026 | arXiv | **REAL-OW: Rehearsal-free Open World Object Detection with Low-Rank Adaptation and Dual-Stage Objectness Modeling** | [[paper](https://arxiv.org/abs/2607.03004)] | See paper |
+| 2026 | ECCV | **REAL-OW: Rehearsal-free Open World Object Detection with Low-Rank Adaptation and Dual-Stage Objectness Modeling** | [[paper](https://arxiv.org/abs/2607.03004)] | See paper |
 | 2026 | ECCV | **Real-Time Source-Free Object Detection** | [[paper](https://arxiv.org/abs/2606.31834)] | IIT Hyderabad / SUTD |
 | 2026 | arXiv | **Rethinking Pre-Training and Augmentation for Zero-Shot Cross-City Object Detection** | [[paper](https://arxiv.org/abs/2608.24154)] | See paper |
+| 2026 | ECCV | **RT-SDGOD: Real-Time Single-Domain Generalized Object Detection** | [[paper](https://eccv.ecva.net/virtual/2026/poster/3294)] | See paper |
 | 2026 | arXiv | **SAM3-O2D2: Zero-Shot Object Out-of-Distribution Detection by Object Class Prompting of the SAM3-Image Model** | [[paper](https://arxiv.org/abs/2609.08281)] | See paper |
 | 2026 | arXiv | **Semantically Compatible Knowledge Distillation for Cross-Domain Object Detection with Vision Foundation Models** | [[paper](https://arxiv.org/abs/2608.20916)] | See paper |
 | 2026 | arXiv | **SimFuse3D: Source-Guided Target Simulation and Confidence-Guided Multi-Stage Localization Reweighting for Cross-Platform 3D Object Detection** | [[paper](https://arxiv.org/abs/2609.04886)] | See paper |
 | 2026 | arXiv | **SPK: Eliciting Structured Prior Knowledge for Interpretable Out-of-Distribution Detection in Real-Time Object Detection** | [[paper](https://arxiv.org/abs/2608.19080)] | See paper |
 | 2026 | arXiv | **Towards Sparsely Annotated Open-World Object Detection** | [[paper](https://arxiv.org/abs/2608.12714)] | See paper |
+| 2026 | ECCV | **VLOD-TTA: Test-Time Adaptation of Vision-Language Object Detectors** | [[paper](https://arxiv.org/abs/2510.00458)] | Ecole de technologie superieure, Montreal |
 | 2026 | arXiv | **Why Domain Matters: Domain-Aware Benchmarking of Underwater Object Detection and Annotation Quality** | [[paper](https://arxiv.org/abs/2607.10575)] | University of Tasmania |
 | 2025 | CVPR | **Believing is Seeing: Unobserved Object Detection using Generative Models** | [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Bhattacharjee_Believing_is_Seeing_Unobserved_Object_Detection_using_Generative_Models_CVPR_2025_paper.html)] | See paper |
 | 2025 | CVPR | **Benchmarking Object Detectors under Real-World Distribution Shifts in Satellite Imagery** | [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Al-Emadi_Benchmarking_Object_Detectors_under_Real-World_Distribution_Shifts_in_Satellite_Imagery_CVPR_2025_paper.html)] | See paper |

@@ -354,6 +354,7 @@ This project serves as a paper-driven knowledge base for the automatic optimizat
 | 2026 | CVPR | **Parameter-Efficient Semantic Augmentation for Enhancing Open-Vocabulary Object Detection** | [[paper](https://arxiv.org/abs/2604.04444)] | See paper |
 | 2026 | arXiv | **PISA: A Pseudo-Individual Source-Domain Feature Adaptation Framework for Test-Time Open-Vocabulary Object Detection** | [[paper](https://arxiv.org/abs/2608.14142)] | See paper |
 | 2026 | arXiv | **ProCal: Inference-Time Proposal Calibration for Open-Vocabulary Object Detection** | [[paper](https://arxiv.org/abs/2607.01759)] | University of Maryland |
+| 2026 | arXiv | **Soft Prompting for Few-Shot Adaptation of Vision-Language Models** | [[paper](https://arxiv.org/abs/2609.11310)] | See paper |
 | 2026 | CVPR | **SRA-Det: Learning Omni-Grained Open-Vocabulary Detection Beyond Category Names** | [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Yang_SRA-Det_Learning_Omni-Grained_Open-Vocabulary_Detection_Beyond_Category_Names_CVPR_2026_paper.html)] | See paper |
 | 2026 | CVPR | **Thermal-Det: Language-Guided Cross-Modal Distillation for Open-Vocabulary Thermal Object Detection** | [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Ranasinghe_Thermal-Det_Language-Guided_Cross-Modal_Distillation_for_Open-Vocabulary_Thermal_Object_Detection_CVPR_2026_paper.html)] | See paper |
 | 2026 | CVPR | **Unlearning without Forgetting: Securely Removing Targeted Concepts from Large-Scale Vision-Language Open-Vocabulary Detectors** | [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Wu_Unlearning_without_Forgetting_Securely_Removing_Targeted_Concepts_from_Large-Scale_Vision-Language_CVPR_2026_paper.html)] | See paper |
@@ -470,6 +471,7 @@ This project serves as a paper-driven knowledge base for the automatic optimizat
 | 2026 | ECCV | **REAL-OW: Rehearsal-free Open World Object Detection with Low-Rank Adaptation and Dual-Stage Objectness Modeling** | [[paper](https://arxiv.org/abs/2607.03004)] | See paper |
 | 2026 | ECCV | **Real-Time Source-Free Object Detection** | [[paper](https://arxiv.org/abs/2606.31834)] | IIT Hyderabad / SUTD |
 | 2026 | arXiv | **Rethinking Pre-Training and Augmentation for Zero-Shot Cross-City Object Detection** | [[paper](https://arxiv.org/abs/2608.24154)] | See paper |
+| 2026 | arXiv | **RGB-to-IR image translation for infrared vehicle detection in unseen UAV domains** | [[paper](https://arxiv.org/abs/2609.02556)] | See paper |
 | 2026 | ECCV | **RT-SDGOD: Real-Time Single-Domain Generalized Object Detection** | [[paper](https://eccv.ecva.net/virtual/2026/poster/3294)] | See paper |
 | 2026 | arXiv | **SAM3-O2D2: Zero-Shot Object Out-of-Distribution Detection by Object Class Prompting of the SAM3-Image Model** | [[paper](https://arxiv.org/abs/2609.08281)] | See paper |
 | 2026 | arXiv | **Semantically Compatible Knowledge Distillation for Cross-Domain Object Detection with Vision Foundation Models** | [[paper](https://arxiv.org/abs/2608.20916)] | See paper |

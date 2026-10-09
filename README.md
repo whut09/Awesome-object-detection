@@ -94,6 +94,7 @@ This project serves as a paper-driven knowledge base for the automatic optimizat
 ### DETR and End-to-End Detection
 | Year | Pub | Title | Links | Main Institution |
 |:---:|:---:|:---|:---:|:---:|
+| 2026 | arXiv | **Order Matters: Competition-Guided Query Ordering for RNN-Based Object Detection** | [[paper](https://arxiv.org/abs/2610.05191)] | See paper |
 | 2026 | CVPR | **PaQ-DETR: Learning Pattern and Quality-Aware Dynamic Queries for Object Detection** | [[paper](https://arxiv.org/abs/2603.06917)] | See paper |
 | 2026 | ECCV | **RT-DETRv4: Painlessly Furthering Real-Time Object Detection with Vision Foundation Models** | [[paper](https://arxiv.org/abs/2510.25257)] | Peking University / Tsinghua University |
 | 2025 | ICCV | **Adversarial Attention Perturbations for Large Object Detection Transformers** | [[paper](https://arxiv.org/abs/2508.02987)] | See paper |
@@ -181,6 +182,7 @@ This project serves as a paper-driven knowledge base for the automatic optimizat
 | 2026 | CVPR | **A Closer Look at Cross-Domain Few-Shot Object Detection: Fine-Tuning Matters and Parallel Decoder Helps** | [[paper](https://arxiv.org/abs/2603.28182)] [[code](https://github.com/Intellindust-AI-Lab/FT-FSOD)] [[note](docs/CVPR2026/object_detection/a_closer_look_at_cross-domain_few-shot_object_detection_fine-tuning_matters_and_parallel_decoder_helps.md)] | See paper |
 | 2026 | arXiv | **A Multi-Modal Perception Pipeline for Object Detection and Tracking in Autonomous Racing** | [[paper](https://arxiv.org/abs/2609.08338)] | See paper |
 | 2026 | arXiv | **A2DINOv3: Rethinking Multi-Modal Object Detection via Socialized Collaboration** | [[paper](https://arxiv.org/abs/2608.21099)] | See paper |
+| 2026 | arXiv | **Any-scale Object Detection using Arbitrary-scaled Images** | [[paper](https://arxiv.org/abs/2610.04346)] | See paper |
 | 2026 | CVPR | **Beyond Duality: A Hybrid Framework of Leveraging Shared and Private Features for RGB-Event Object Detection** | [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_Beyond_Duality_A_Hybrid_Framework_of_Leveraging_Shared_and_Private_CVPR_2026_paper.html)] [[note](docs/CVPR2026/object_detection/beyond_duality_a_hybrid_framework_of_leveraging_shared_and_private_features_for_rgb-event_object_detection.md)] | See paper |
 | 2026 | ECCV | **C2E: Boosting Ego-Only 3D Object Detection via Multi-Teacher Contrastive Knowledge Distillation** | [[paper](https://arxiv.org/abs/2607.01827)] | See paper |
 | 2026 | arXiv | **Context-Aware Feature-Fusion for Co-occurring Object Detection in Autonomous Driving** | [[paper](https://arxiv.org/abs/2606.12628)] | See paper |
@@ -204,6 +206,7 @@ This project serves as a paper-driven knowledge base for the automatic optimizat
 | 2026 | arXiv | **RLG-TPV: Radar- and LiDAR-Guided Tri-Perspective View Fusion for Camera-Radar 3D Object Detection** | [[paper](https://arxiv.org/abs/2608.29194)] | See paper |
 | 2026 | arXiv | **RSFusionDet: Underwater RGB-Sonar Multimodal Object Detection** | [[paper](https://arxiv.org/abs/2608.25367)] | See paper |
 | 2026 | arXiv | **Seeing the Unseen: Camouflaged Object Detection Beyond the Visible Spectrum** | [[paper](https://arxiv.org/abs/2608.30355)] | See paper |
+| 2026 | arXiv | **Sparse2comm: Towards Robust Cooperative 3D Object Detection** | [[paper](https://arxiv.org/abs/2610.08573)] | See paper |
 | 2026 | CVPR | **Spike-driven Discrete Aggregation for Event-based Object Detection** | [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Li_Spike-driven_Discrete_Aggregation_for_Event-based_Object_Detection_CVPR_2026_paper.html)] [[note](docs/CVPR2026/object_detection/spike-driven_discrete_aggregation_for_event-based_object_detection.md)] | See paper |
 | 2026 | arXiv | **Spiking Neural Networks for Energy-Efficient Object Detection in Forward-Looking Sonar Imagery** | [[paper](https://arxiv.org/abs/2608.22072)] | See paper |
 | 2026 | arXiv | **Stereo 4D Radar for 3D Object Detection: Integrating Geometric Alignment and Absolute Velocity Estimation** | [[paper](https://arxiv.org/abs/2609.02560)] | See paper |
@@ -348,6 +351,7 @@ This project serves as a paper-driven knowledge base for the automatic optimizat
 | 2026 | arXiv | **DroneGround: Open-Vocabulary Drone Payload Characterization Using Synthetic Data and Grounded Vision-Language Models** | [[paper](https://arxiv.org/abs/2609.07780)] | See paper |
 | 2026 | ECCV | **Explicit Semantic-Spatial Alignment for Open-Vocabulary Object Detection** | [[paper](https://eccv.ecva.net/virtual/2026/poster/3568)] | See paper |
 | 2026 | arXiv | **FlowOVD: Learning Generative Latent Flows for Zero-shot Open-vocabulary Detection** | [[paper](https://arxiv.org/abs/2606.00782)] | University of California, Merced |
+| 2026 | arXiv | **InterHier: Learning Interconnected Hierarchical Semantics for Open-Vocabulary Object Detection** | [[paper](https://arxiv.org/abs/2609.24026)] | See paper |
 | 2026 | CVPR | **NoOVD: Novel Category Discovery and Embedding for Open-Vocabulary Object Detection** | [[paper](https://arxiv.org/abs/2603.21069)] | See paper |
 | 2026 | arXiv | **Open-Vocabulary 3D Object Detection with Co-Distillation Discovery and Dual Guidance Robust Training** | [[paper](https://arxiv.org/abs/2608.19973)] | See paper |
 | 2026 | arXiv | **OV-DEIM: Real-time DETR-Style Open-Vocabulary Object Detection with GridSynthetic Augmentation** | [[paper](https://arxiv.org/abs/2603.07022)] [[code](https://github.com/wleilei/OV-DEIM)] | University of Electronic Science and Technology of China |
@@ -452,6 +456,7 @@ This project serves as a paper-driven knowledge base for the automatic optimizat
 | 2026 | CVPR | **Beyond Prompt Degradation: Prototype-Guided Dual-Pool Prompting for Incremental Object Detection** | [[paper](https://arxiv.org/abs/2603.02286)] [[code](https://github.com/zyt95579/PDP_IOD/tree/main)] | See paper |
 | 2026 | CVPR | **Black-Box Domain Adaptation for Object Detection with Retention-Driven Knowledge Compression** | [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Lu_Black-Box_Domain_Adaptation_for_Object_Detection_with_Retention-Driven_Knowledge_Compression_CVPR_2026_paper.html)] | See paper |
 | 2026 | arXiv | **C$^2$Path: Class-Conditional Pathway Decoupling for Vision-Language Incremental Object Detection** | [[paper](https://arxiv.org/abs/2608.21937)] | See paper |
+| 2026 | arXiv | **C2FXNet: Coarse-to-Fine Scene Expert for Unified Object Detection across Adverse Weather** | [[paper](https://arxiv.org/abs/2609.25693)] | See paper |
 | 2026 | CVPR | **CD-Buffer: Complementary Dual-Buffer Framework for Test-Time Adaptation in Adverse Weather Object Detection** | [[paper](https://arxiv.org/abs/2603.26092)] | See paper |
 | 2026 | arXiv | **Class Geometry as Supervision for Sample-Efficient Open-World Detection** | [[paper](https://arxiv.org/abs/2608.12698)] | See paper |
 | 2026 | arXiv | **CODE: Cross-Modal Calibration and Dynamic Suppression for Open World Object Detection** | [[paper](https://arxiv.org/abs/2608.27214)] | See paper |
@@ -464,6 +469,7 @@ This project serves as a paper-driven knowledge base for the automatic optimizat
 | 2026 | arXiv | **Hyperbolic Geometry for Open-World Object Detection in Remote Sensing Imagery** | [[paper](https://arxiv.org/abs/2609.09626)] | See paper |
 | 2026 | arXiv | **If It Moves, Radar Knows: A Physics-Aware Radar Transformer for Class-Agnostic Moving-Object Detection** | [[paper](https://arxiv.org/abs/2609.02289)] | See paper |
 | 2026 | CVPR | **Incremental Object Detection via Future-Aware Decoupled Cross-Head Distillation** | [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Yin_Incremental_Object_Detection_via_Future-Aware_Decoupled_Cross-Head_Distillation_CVPR_2026_paper.html)] | See paper |
+| 2026 | arXiv | **Localisation-Aware Uncertainty for Pretrained Object Detection** | [[paper](https://arxiv.org/abs/2610.01409)] | See paper |
 | 2026 | arXiv | **Multimodal Semantic-Probabilistic Objectness for Open World Object Detection** | [[paper](https://arxiv.org/abs/2607.23981)] | See paper |
 | 2026 | ECCV | **NegAS: Negative Label Guided Attention and Scoring for Out-of-Distribution Object Detection with Vision-Language Models** | [[paper](https://arxiv.org/abs/2606.22537)] | See paper |
 | 2026 | CVPR | **Parameterized Prompt for Incremental Object Detection** | [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/An_Parameterized_Prompt_for_Incremental_Object_Detection_CVPR_2026_paper.html)] | See paper |
@@ -698,6 +704,7 @@ This project serves as a paper-driven knowledge base for the automatic optimizat
 | 2026 | arXiv | **Bridging Severe Cross-Modal Misalignment: End-to-End Visible-Infrared Object Detection via Explicit Feature-Domain Affine Registration** | [[paper](https://arxiv.org/abs/2608.10680)] | See paper |
 | 2026 | CVPR | **CHAL: Causal-guided Hierarchical Anomaly-aware Learning for Moving Infrared Small Target Detection** | [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Duan_CHAL_Causal-guided_Hierarchical_Anomaly-aware_Learning_for_Moving_Infrared_Small_Target_CVPR_2026_paper.html)] [[note](docs/CVPR2026/object_detection/chal_causal_guided_hierarchical_anomaly_aware_learning_for_moving_infrared_small_target_detection.md)] | See paper |
 | 2026 | arXiv | **CLSC DETR: Reliable Candidate Ranking via Cross Layer Geometric Support for UAV Small Object Detection** | [[paper](https://arxiv.org/abs/2608.21457)] | See paper |
+| 2026 | arXiv | **CSCWD: Cross-Scale Channel-wise Knowledge Distillation for Lightweight Tiny Object Detection on Edge Devices** | [[paper](https://arxiv.org/abs/2609.30395)] | See paper |
 | 2026 | arXiv | **Degraded Infrared Small Object Detection via Degradation-Adapted Physics-Guided Restoration** | [[paper](https://arxiv.org/abs/2608.09311)] | See paper |
 | 2026 | ECCV | **Denoising-Enhanced Coarse-to-Fine Infrared Small Target Detection with Attention Prior-Guided Knowledge Distillation** | [[paper](https://arxiv.org/abs/2606.21956)] [[note](docs/ECCV2026/object_detection/denoising_enhanced_coarse_to_fine_infrared_small_target_detection_with_attention_prior_guided_knowledge_distillation.md)] | Xidian University |
 | 2026 | arXiv | **DyFrDet: Towards Accurate Small Object Detection via Dynamic Frequency Suppression with Label Disambiguation** | [[paper](https://arxiv.org/abs/2608.02495)] | See paper |
@@ -706,6 +713,7 @@ This project serves as a paper-driven knowledge base for the automatic optimizat
 | 2026 | arXiv | **FRFDet: Efficient UAV Small Object Detection with Symmetric Sampling and Scalable Fusion** | [[paper](https://arxiv.org/abs/2607.04125)] | See paper |
 | 2026 | arXiv | **From Spatial to Spectral: An Efficient, Frequency-Guided Feature Representation Learner for Small Object Detection** | [[paper](https://arxiv.org/abs/2606.23825)] | See paper |
 | 2026 | ECCV | **FSDC-DETR: A Frequency-Spatial Domain Collaborative DETR for Small Object Detection** | [[paper](https://arxiv.org/abs/2607.05176)] | See paper |
+| 2026 | arXiv | **LiG-DETR: Local-in-Global Reassembly in Latent Space for Aerial Object Detection** | [[paper](https://arxiv.org/abs/2610.09511)] | See paper |
 | 2026 | arXiv | **LOGOS: Language-guided Oriented Object Detection in Aerial Scenes** | [[paper](https://arxiv.org/abs/2607.08004)] [[note](docs/arXiv2026/object_detection/logos_language_guided_oriented_object_detection_in_aerial_scenes.md)] | University of California, Santa Cruz |
 | 2026 | arXiv | **ProtoRAG: Prototype-Based Retrieval Augmentation for Few-Shot Fine-Grained Remote Sensing Object Detection** | [[paper](https://arxiv.org/abs/2609.05953)] | See paper |
 | 2026 | arXiv | **RailGen: Improving Railway Intrusion Detection via Agent-Guided Small-Scale Foreign Object Generation** | [[paper](https://arxiv.org/abs/2608.30727)] | See paper |
@@ -817,6 +825,7 @@ This project serves as a paper-driven knowledge base for the automatic optimizat
 | 2026 | arXiv | **Attention from Above: A Multimodal Model for Drone-Based Object Localization** | [[paper](https://arxiv.org/abs/2607.17669)] | See paper |
 | 2026 | CVPR | **D2FANet: Enhancing Video Object Detection with Dual-Domain Feature Aggregation Network** | [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Qi_D2FANet_Enhancing_Video_Object_Detection_with_Dual-Domain_Feature_Aggregation_Network_CVPR_2026_paper.html)] [[note](docs/CVPR2026/object_detection/d2fanet_enhancing_video_object_detection_with_dual-domain_feature_aggregation_network.md)] | See paper |
 | 2026 | CVPR | **Does YOLO Really Need to See Every Training Image in Every Epoch?** | [[paper](https://arxiv.org/abs/2603.17684)] [[note](docs/CVPR2026/object_detection/does_yolo_really_need_to_see_every_training_image_in_every_epoch.md)] | See paper |
+| 2026 | arXiv | **Ev-YOLO: Uncertainty-Aware Object Detection via a Unified Evidential Formulation** | [[paper](https://arxiv.org/abs/2609.24668)] | See paper |
 | 2026 | arXiv | **MambaPSA: A Mamba-based Replacement for C2PSA in YOLO26** | [[paper](https://arxiv.org/abs/2607.12681)] [[note](docs/arXiv2026/object_detection/mambapsa_a_mamba-based_replacement_for_c2psa_in_yolo26.md)] | National Taiwan University of Science and Technology |
 | 2026 | arXiv | **Multi-Task Bacterial Colony Detection and Classification Using YOLOv8 with Edge Optimization for Resource-Constrained Deployment** | [[paper](https://arxiv.org/abs/2609.09818)] | See paper |
 | 2026 | arXiv | **No Attention, No Problem: DPU-Aware Attention Approximation in Modern YOLO on FPGA** | [[paper](https://arxiv.org/abs/2607.13106)] [[note](docs/arXiv2026/object_detection/no_attention_no_problem_dpu-aware_attention_approximation_in_modern_yolo_on_fpga.md)] | Bremen University of Applied Sciences |

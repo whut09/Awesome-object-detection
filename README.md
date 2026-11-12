@@ -31,6 +31,7 @@ This project serves as a paper-driven knowledge base for the automatic optimizat
 | 2026 | arXiv | **An Exploratory Study of Frequency-Aware Task Weighting for YOLOv8-Based Unified Driving Perception** | [[paper](https://arxiv.org/abs/2609.05516)] | See paper |
 | 2026 | arXiv | **DiD It in 87 Minutes: A Label-Free Softmax-to-Linear Adaptation of Vision Transformers for Object Detection** | [[paper](https://arxiv.org/abs/2608.22368)] | See paper |
 | 2026 | arXiv | **Information Density Imbalance in Visual Object Detection** | [[paper](https://arxiv.org/abs/2609.02369)] | See paper |
+| 2026 | arXiv | **Smooth Bounding Box for Object Detection** | [[paper](https://arxiv.org/abs/2611.00676)] | See paper |
 | 2026 | arXiv | **Socialized Detector Learning: Trajectory-Guided and Reciprocal Distillation for Heterogeneous Object Detectors** | [[paper](https://arxiv.org/abs/2608.25836)] | See paper |
 | 2026 | arXiv | **TADP: Task-Aware Deformable Prediction for Single-Stage 3D Object Detection** | [[paper](https://arxiv.org/abs/2608.27282)] | See paper |
 | 2025 | ICCV | **Rethinking Multi-modal Object Detection from the Perspective of Mono-Modality Feature Learning** | [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Zhao_Rethinking_Multi-modal_Object_Detection_from_the_Perspective_of_Mono-Modality_Feature_ICCV_2025_paper.html)] [[note](docs/ICCV2025/object_detection/rethinking_multi_modal_object_detection_from_the_perspective_of_mono_modality_feature_learning.md)] | See paper |
@@ -94,6 +95,7 @@ This project serves as a paper-driven knowledge base for the automatic optimizat
 ### DETR and End-to-End Detection
 | Year | Pub | Title | Links | Main Institution |
 |:---:|:---:|:---|:---:|:---:|
+| 2026 | arXiv | **Dynamic Query as Budgeting for Tiny Object Detection** | [[paper](https://arxiv.org/abs/2610.33430)] | See paper |
 | 2026 | arXiv | **Order Matters: Competition-Guided Query Ordering for RNN-Based Object Detection** | [[paper](https://arxiv.org/abs/2610.05191)] | See paper |
 | 2026 | CVPR | **PaQ-DETR: Learning Pattern and Quality-Aware Dynamic Queries for Object Detection** | [[paper](https://arxiv.org/abs/2603.06917)] | See paper |
 | 2026 | ECCV | **RT-DETRv4: Painlessly Furthering Real-Time Object Detection with Vision Foundation Models** | [[paper](https://arxiv.org/abs/2510.25257)] | Peking University / Tsinghua University |
@@ -205,6 +207,7 @@ This project serves as a paper-driven knowledge base for the automatic optimizat
 | 2026 | CVPR | **RHCNet: Residual-Guided Hierarchical Calibration Network for Robust Underwater Object Detection** | [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_RHCNet_Residual-Guided_Hierarchical_Calibration_Network_for_Robust_Underwater_Object_Detection_CVPR_2026_paper.html)] [[note](docs/CVPR2026/object_detection/rhcnet_residual-guided_hierarchical_calibration_network_for_robust_underwater_object_detection.md)] | See paper |
 | 2026 | arXiv | **RLG-TPV: Radar- and LiDAR-Guided Tri-Perspective View Fusion for Camera-Radar 3D Object Detection** | [[paper](https://arxiv.org/abs/2608.29194)] | See paper |
 | 2026 | arXiv | **RSFusionDet: Underwater RGB-Sonar Multimodal Object Detection** | [[paper](https://arxiv.org/abs/2608.25367)] | See paper |
+| 2026 | arXiv | **SceneP2F: Controllable Multi-Object Insertion for Detection Data Augmentation** | [[paper](https://arxiv.org/abs/2610.26922)] | See paper |
 | 2026 | arXiv | **Seeing the Unseen: Camouflaged Object Detection Beyond the Visible Spectrum** | [[paper](https://arxiv.org/abs/2608.30355)] | See paper |
 | 2026 | arXiv | **Sparse2comm: Towards Robust Cooperative 3D Object Detection** | [[paper](https://arxiv.org/abs/2610.08573)] | See paper |
 | 2026 | CVPR | **Spike-driven Discrete Aggregation for Event-based Object Detection** | [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Li_Spike-driven_Discrete_Aggregation_for_Event-based_Object_Detection_CVPR_2026_paper.html)] [[note](docs/CVPR2026/object_detection/spike-driven_discrete_aggregation_for_event-based_object_detection.md)] | See paper |
@@ -356,6 +359,7 @@ This project serves as a paper-driven knowledge base for the automatic optimizat
 | 2026 | arXiv | **Open-Vocabulary 3D Object Detection with Co-Distillation Discovery and Dual Guidance Robust Training** | [[paper](https://arxiv.org/abs/2608.19973)] | See paper |
 | 2026 | arXiv | **OV-DEIM: Real-time DETR-Style Open-Vocabulary Object Detection with GridSynthetic Augmentation** | [[paper](https://arxiv.org/abs/2603.07022)] [[code](https://github.com/wleilei/OV-DEIM)] | University of Electronic Science and Technology of China |
 | 2026 | CVPR | **Parameter-Efficient Semantic Augmentation for Enhancing Open-Vocabulary Object Detection** | [[paper](https://arxiv.org/abs/2604.04444)] | See paper |
+| 2026 | arXiv | **Partition, Refine, and Detect: Preserving Novel Category Capacity in Open-Vocabulary Object Detection** | [[paper](https://arxiv.org/abs/2611.12976)] | See paper |
 | 2026 | arXiv | **PISA: A Pseudo-Individual Source-Domain Feature Adaptation Framework for Test-Time Open-Vocabulary Object Detection** | [[paper](https://arxiv.org/abs/2608.14142)] | See paper |
 | 2026 | arXiv | **ProCal: Inference-Time Proposal Calibration for Open-Vocabulary Object Detection** | [[paper](https://arxiv.org/abs/2607.01759)] | University of Maryland |
 | 2026 | arXiv | **Soft Prompting for Few-Shot Adaptation of Vision-Language Models** | [[paper](https://arxiv.org/abs/2609.11310)] | See paper |
@@ -466,9 +470,12 @@ This project serves as a paper-driven knowledge base for the automatic optimizat
 | 2026 | arXiv | **Domain shift-robust object detection with GenAI image editing** | [[paper](https://arxiv.org/abs/2609.02299)] | See paper |
 | 2026 | CVPR | **EW-DETR: Evolving World Object Detection via Incremental Low-Rank DEtection TRansformer** | [[paper](https://arxiv.org/abs/2602.20985)] | See paper |
 | 2026 | CVPR | **Expert-Teacher-Student Collaborative Learning for Domain Adaptive Object Detection** | [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Cui_Expert-Teacher-Student_Collaborative_Learning_for_Domain_Adaptive_Object_Detection_CVPR_2026_paper.html)] | See paper |
+| 2026 | arXiv | **FogTTA: Online Test-Time Adaptation for Robust Transformer-based Object Detection in Foggy Weather** | [[paper](https://arxiv.org/abs/2610.29618)] | See paper |
+| 2026 | arXiv | **GIFT: Representation Geometry Matters for Single-Domain Generalized Object Detection** | [[paper](https://arxiv.org/abs/2610.35374)] | See paper |
 | 2026 | arXiv | **Hyperbolic Geometry for Open-World Object Detection in Remote Sensing Imagery** | [[paper](https://arxiv.org/abs/2609.09626)] | See paper |
 | 2026 | arXiv | **If It Moves, Radar Knows: A Physics-Aware Radar Transformer for Class-Agnostic Moving-Object Detection** | [[paper](https://arxiv.org/abs/2609.02289)] | See paper |
 | 2026 | CVPR | **Incremental Object Detection via Future-Aware Decoupled Cross-Head Distillation** | [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Yin_Incremental_Object_Detection_via_Future-Aware_Decoupled_Cross-Head_Distillation_CVPR_2026_paper.html)] | See paper |
+| 2026 | arXiv | **JMT-YOLO: Multi-task Domain Adaptation via Segmentation-Guided Consistency Learning** | [[paper](https://arxiv.org/abs/2610.12901)] | See paper |
 | 2026 | arXiv | **Localisation-Aware Uncertainty for Pretrained Object Detection** | [[paper](https://arxiv.org/abs/2610.01409)] | See paper |
 | 2026 | arXiv | **Multimodal Semantic-Probabilistic Objectness for Open World Object Detection** | [[paper](https://arxiv.org/abs/2607.23981)] | See paper |
 | 2026 | ECCV | **NegAS: Negative Label Guided Attention and Scoring for Out-of-Distribution Object Detection with Vision-Language Models** | [[paper](https://arxiv.org/abs/2606.22537)] | See paper |
@@ -713,6 +720,7 @@ This project serves as a paper-driven knowledge base for the automatic optimizat
 | 2026 | arXiv | **FRFDet: Efficient UAV Small Object Detection with Symmetric Sampling and Scalable Fusion** | [[paper](https://arxiv.org/abs/2607.04125)] | See paper |
 | 2026 | arXiv | **From Spatial to Spectral: An Efficient, Frequency-Guided Feature Representation Learner for Small Object Detection** | [[paper](https://arxiv.org/abs/2606.23825)] | See paper |
 | 2026 | ECCV | **FSDC-DETR: A Frequency-Spatial Domain Collaborative DETR for Small Object Detection** | [[paper](https://arxiv.org/abs/2607.05176)] | See paper |
+| 2026 | arXiv | **Gradient-Guided Orientation Learning for Weakly Supervised Oriented Object Detection** | [[paper](https://arxiv.org/abs/2611.04616)] | See paper |
 | 2026 | arXiv | **LiG-DETR: Local-in-Global Reassembly in Latent Space for Aerial Object Detection** | [[paper](https://arxiv.org/abs/2610.09511)] | See paper |
 | 2026 | arXiv | **LOGOS: Language-guided Oriented Object Detection in Aerial Scenes** | [[paper](https://arxiv.org/abs/2607.08004)] [[note](docs/arXiv2026/object_detection/logos_language_guided_oriented_object_detection_in_aerial_scenes.md)] | University of California, Santa Cruz |
 | 2026 | arXiv | **ProtoRAG: Prototype-Based Retrieval Augmentation for Few-Shot Fine-Grained Remote Sensing Object Detection** | [[paper](https://arxiv.org/abs/2609.05953)] | See paper |
@@ -720,6 +728,7 @@ This project serves as a paper-driven knowledge base for the automatic optimizat
 | 2026 | arXiv | **RailSyn: Diagnosis-Guided Image Generation for Traceable Data Completion in Railway Foreign Object Detection** | [[paper](https://arxiv.org/abs/2608.30709)] | See paper |
 | 2026 | CVPR | **RAVEN: Radar Adaptive Vision Encoders for Efficient Chirp-wise Object Detection and Segmentation** | [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Sen_RAVEN_Radar_Adaptive_Vision_Encoders_for_Efficient_Chirp-wise_Object_Detection_CVPR_2026_paper.html)] [[note](docs/CVPR2026/object_detection/raven_radar_adaptive_vision_encoders_for_efficient_chirp_wise_object_detection_and_segmentation.md)] | See paper |
 | 2026 | arXiv | **Reading Decoder Trajectories: Training-Free Counterfactual Query-Trajectory Reliability for Small-Object Detection** | [[paper](https://arxiv.org/abs/2609.06581)] | See paper |
+| 2026 | arXiv | **ReDHF: Reviving the Discarded High-Resolution Feature for Transformer-Based Tiny Object Detection** | [[paper](https://arxiv.org/abs/2611.07994)] | See paper |
 | 2026 | ECCV | **RiO-DETR: DETR for Real-time Oriented Object Detection** | [[paper](https://arxiv.org/abs/2603.09411)] [[note](docs/arXiv2026/object_detection/rio_detr_detr_for_real_time_oriented_object_detection.md)] | Nanjing University of Science and Technology |
 | 2026 | arXiv | **ROI-Gated SAHI: Content-Adaptive Slicing-Based Inference for Efficient Object Detection** | [[paper](https://arxiv.org/abs/2608.23923)] | See paper |
 | 2026 | CVPR | **Rotation Invariant and Symmetry Aware Pixel Difference Network for Remote Sensing Object Detection** | [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Zhan_Rotation_Invariant_and_Symmetry_Aware_Pixel_Difference_Network_for_Remote_CVPR_2026_paper.html)] [[note](docs/CVPR2026/object_detection/rotation_invariant_and_symmetry_aware_pixel_difference_network_for_remote_sensing_object_detection.md)] | See paper |
@@ -832,6 +841,7 @@ This project serves as a paper-driven knowledge base for the automatic optimizat
 | 2026 | arXiv | **Ultralytics YOLO26: An End-to-End Edge-Optimized Vision Model** | [[paper](https://arxiv.org/abs/2606.03748)] [[code](https://github.com/ultralytics/ultralytics)] [[note](docs/arXiv2026/object_detection/ultralytics_yolo26_an_end-to-end_edge-optimized_vision_model.md)] | Ultralytics |
 | 2026 | CVPR | **YOLO-Master: MOE-Accelerated with Specialized Transformers for Enhanced Real-time Detection** | [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Lin_YOLO-Master_MOE-Accelerated_with_Specialized_Transformers_for_Enhanced_Real-time_Detection_CVPR_2026_paper.html)] [[note](docs/CVPR2026/object_detection/yolo-master_moe-accelerated_with_specialized_transformers_for_enhanced_real-time_detection.md)] | See paper |
 | 2026 | CVPR | **YOLO-ULM: Ultra-Lightweight Models for Real-Time Object Detection** | [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Han_YOLO-ULM_Ultra-Lightweight_Models_for_Real-Time_Object_Detection_CVPR_2026_paper.html)] [[note](docs/CVPR2026/object_detection/yolo-ulm_ultra-lightweight_models_for_real-time_object_detection.md)] | See paper |
+| 2026 | arXiv | **YOLOF-MLD: A Multi-Level Distillation Framework for Efficient Object Detection** | [[paper](https://arxiv.org/abs/2610.39408)] | See paper |
 | 2026 | arXiv | **YOLOv14: Adaptive Real-Time Object Detection for Diverse Imaging Conditions** | [[paper](https://arxiv.org/abs/2608.04720)] [[code](https://github.com/zhangcbb/yolov14)] | See paper |
 | 2025 | CVPR | **Brain-Inspired Spiking Neural Networks for Energy-Efficient Object Detection** | [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Li_Brain-Inspired_Spiking_Neural_Networks_for_Energy-Efficient_Object_Detection_CVPR_2025_paper.html)] [[note](docs/CVPR2025/object_detection/brain-inspired_spiking_neural_networks_for_energy-efficient_object_detection.md)] | See paper |
 | 2025 | NeurIPS | **Real-Time Scene-Adaptive Tone Mapping for High-Dynamic Range Object Detection** | [[paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/8c83381162f247df48f101b3aaa7c440-Abstract-Conference.html)] [[note](docs/NeurIPS2025/object_detection/real-time_scene-adaptive_tone_mapping_for_high-dynamic_range_object_detection.md)] | See paper |
